@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: a4bc6d94600d8464ca84ef751ad8ff71
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 448783d22156147fab8e8f35db4b9e38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_
+    second: {fileID: 2100000, guid: a21616c2d16854a7887395a0305b1302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_1
+    second: {fileID: 2100000, guid: 57c11a5eaf78f4bdd82f6a6d739b8c65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_10
+    second: {fileID: 2100000, guid: 34106a9039ee44092b13ecad7dd117c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_11
+    second: {fileID: 2100000, guid: 09c763ea34b934d058d32307186ec45c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_12
+    second: {fileID: 2100000, guid: c19b5a9c954d14be3a2f541e65311e9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_13
+    second: {fileID: 2100000, guid: 4cc6f21aece21488d927c59633cbce28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_14
+    second: {fileID: 2100000, guid: 61c549337a6b54e05be5d0500140cfff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_15
+    second: {fileID: 2100000, guid: 6e7bcfe08e4244718ad91d09748d8a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_16
+    second: {fileID: 2100000, guid: 02471414029ab4482aca25f3bc18c6d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_17
+    second: {fileID: 2100000, guid: 9f6e02bb6a4df4376b1c0f3fd94f30e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_18
+    second: {fileID: 2100000, guid: 8ef05a88b76ea44e4a8bd183c91c71ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_19
+    second: {fileID: 2100000, guid: db25883cec77e4c0682107efdfcc18f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_2
+    second: {fileID: 2100000, guid: b972fca6bd3af455a9970095f606e9ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_20
+    second: {fileID: 2100000, guid: 26ffcec628e784919a7441c1b0d6ba6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_21
+    second: {fileID: 2100000, guid: 5d530395b121b43d1bb358808b9a5852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_22
+    second: {fileID: 2100000, guid: 5f353e090ff7948a8aa69e4b874f5311, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_3
+    second: {fileID: 2100000, guid: 59bd95a8d1831432ea24419b1c05c1d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_4
+    second: {fileID: 2100000, guid: fdec2f70ea83d40178e724120881e585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_5
+    second: {fileID: 2100000, guid: 53a532e66ce92405ca4272bf176cea80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_6
+    second: {fileID: 2100000, guid: ce1bfc162852043359cfa6f7a302088d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_7
+    second: {fileID: 2100000, guid: 0235c9243df3f4ae88b3675dc5afe4dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_8
+    second: {fileID: 2100000, guid: 534c99671458c4ead8cfb98a3817f557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scranton_coal_breaker__2_9
+    second: {fileID: 2100000, guid: 0cb5d7ec9e7cb4437a1eacc4be5f6e03, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

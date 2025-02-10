@@ -1,0 +1,1221 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Coal_Pockets_for_Sketchup3
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3.png
+
+newmtl Coal_Pockets_for_Sketchup3_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_1_.png
+
+newmtl Coal_Pockets_for_Sketchup3_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_2_.png
+
+newmtl Coal_Pockets_for_Sketchup3_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_3_.png
+
+newmtl Coal_Pockets_for_Sketchup3_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_4_.png
+
+newmtl Coal_Pockets_for_Sketchup3_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_5_.png
+
+newmtl Coal_Pockets_for_Sketchup3_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_6_.png
+
+newmtl Coal_Pockets_for_Sketchup3_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_7_.png
+
+newmtl Coal_Pockets_for_Sketchup3_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_8_.png
+
+newmtl Coal_Pockets_for_Sketchup3_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_9_.png
+
+newmtl Coal_Pockets_for_Sketchup3_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_10_.png
+
+newmtl Coal_Pockets_for_Sketchup3_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_11_.png
+
+newmtl Coal_Pockets_for_Sketchup3_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_12_.png
+
+newmtl Coal_Pockets_for_Sketchup3_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_13_.png
+
+newmtl Coal_Pockets_for_Sketchup3_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_14_.png
+
+newmtl Coal_Pockets_for_Sketchup3_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_15_.png
+
+newmtl Coal_Pockets_for_Sketchup3_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_16_.png
+
+newmtl Coal_Pockets_for_Sketchup3_17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_17_.png
+
+newmtl Coal_Pockets_for_Sketchup3_18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_18_.png
+
+newmtl Coal_Pockets_for_Sketchup3_19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_19_.png
+
+newmtl Coal_Pockets_for_Sketchup3_20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_20_.png
+
+newmtl Coal_Pockets_for_Sketchup3_21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_21_.png
+
+newmtl Coal_Pockets_for_Sketchup3_22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_22_.png
+
+newmtl Coal_Pockets_for_Sketchup3_23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_23_.png
+
+newmtl Coal_Pockets_for_Sketchup3_24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_24_.png
+
+newmtl Coal_Pockets_for_Sketchup3_25_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_25_.png
+
+newmtl Coal_Pockets_for_Sketchup3_26_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_26_.png
+
+newmtl Coal_Pockets_for_Sketchup3_27_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_27_.png
+
+newmtl Coal_Pockets_for_Sketchup3_28_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_28_.png
+
+newmtl Coal_Pockets_for_Sketchup3_29_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_29_.png
+
+newmtl Coal_Pockets_for_Sketchup3_30_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_30_.png
+
+newmtl Coal_Pockets_for_Sketchup3_31_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_31_.png
+
+newmtl Coal_Pockets_for_Sketchup3_32_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_32_.png
+
+newmtl Coal_Pockets_for_Sketchup3_33_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_33_.png
+
+newmtl Coal_Pockets_for_Sketchup3_34_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_34_.png
+
+newmtl Coal_Pockets_for_Sketchup3_35_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_35_.png
+
+newmtl Coal_Pockets_for_Sketchup3_36_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_36_.png
+
+newmtl Coal_Pockets_for_Sketchup3_37_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_37_.png
+
+newmtl Coal_Pockets_for_Sketchup3_38_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_38_.png
+
+newmtl Coal_Pockets_for_Sketchup3_39_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_39_.png
+
+newmtl Coal_Pockets_for_Sketchup3_40_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_40_.png
+
+newmtl Coal_Pockets_for_Sketchup3_41_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_41_.png
+
+newmtl Coal_Pockets_for_Sketchup3_42_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_42_.png
+
+newmtl Coal_Pockets_for_Sketchup3_43_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_43_.png
+
+newmtl Coal_Pockets_for_Sketchup3_44_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_44_.png
+
+newmtl Coal_Pockets_for_Sketchup3_45_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_45_.png
+
+newmtl Coal_Pockets_for_Sketchup3_46_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_46_.png
+
+newmtl Coal_Pockets_for_Sketchup3_47_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_47_.png
+
+newmtl Coal_Pockets_for_Sketchup3_48_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_48_.png
+
+newmtl Coal_Pockets_for_Sketchup3_49_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_49_.png
+
+newmtl Coal_Pockets_for_Sketchup3_50_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_50_.png
+
+newmtl Coal_Pockets_for_Sketchup3_51_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_51_.png
+
+newmtl Coal_Pockets_for_Sketchup3_52_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_52_.png
+
+newmtl Coal_Pockets_for_Sketchup3_53_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_53_.png
+
+newmtl Coal_Pockets_for_Sketchup3_54_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_54_.png
+
+newmtl Coal_Pockets_for_Sketchup3_55_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_55_.png
+
+newmtl Coal_Pockets_for_Sketchup3_56_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_56_.png
+
+newmtl Coal_Pockets_for_Sketchup3_57_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_57_.png
+
+newmtl Coal_Pockets_for_Sketchup3_58_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_58_.png
+
+newmtl Coal_Pockets_for_Sketchup3_59_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_59_.png
+
+newmtl Coal_Pockets_for_Sketchup3_60_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_60_.png
+
+newmtl Coal_Pockets_for_Sketchup3_61_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_61_.png
+
+newmtl Coal_Pockets_for_Sketchup3_62_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_62_.png
+
+newmtl Coal_Pockets_for_Sketchup3_63_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_63_.png
+
+newmtl Coal_Pockets_for_Sketchup3_64_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_64_.png
+
+newmtl Coal_Pockets_for_Sketchup3_65_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_65_.png
+
+newmtl Coal_Pockets_for_Sketchup3_66_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_66_.png
+
+newmtl Coal_Pockets_for_Sketchup3_67_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_67_.png
+
+newmtl Coal_Pockets_for_Sketchup3_68_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_68_.png
+
+newmtl Coal_Pockets_for_Sketchup3_69_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_69_.png
+
+newmtl Coal_Pockets_for_Sketchup3_70_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_70_.png
+
+newmtl Coal_Pockets_for_Sketchup3_71_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_71_.png
+
+newmtl Coal_Pockets_for_Sketchup3_72_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_72_.png
+
+newmtl Coal_Pockets_for_Sketchup3_73_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_73_.png
+
+newmtl Coal_Pockets_for_Sketchup3_74_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_74_.png
+
+newmtl Coal_Pockets_for_Sketchup3_75_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_75_.png
+
+newmtl Coal_Pockets_for_Sketchup3_76_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_76_.png
+
+newmtl Coal_Pockets_for_Sketchup3_77_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_77_.png
+
+newmtl Coal_Pockets_for_Sketchup3_78_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_78_.png
+
+newmtl Coal_Pockets_for_Sketchup3_79_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_79_.png
+
+newmtl Coal_Pockets_for_Sketchup3_80_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_80_.png
+
+newmtl Coal_Pockets_for_Sketchup3_81_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_81_.png
+
+newmtl Coal_Pockets_for_Sketchup3_82_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_82_.png
+
+newmtl Coal_Pockets_for_Sketchup3_83_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_83_.png
+
+newmtl Coal_Pockets_for_Sketchup3_84_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_84_.png
+
+newmtl Coal_Pockets_for_Sketchup3_85_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_85_.png
+
+newmtl Coal_Pockets_for_Sketchup3_86_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_86_.png
+
+newmtl Coal_Pockets_for_Sketchup3_87_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_87_.png
+
+newmtl Coal_Pockets_for_Sketchup3_88_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_88_.png
+
+newmtl Coal_Pockets_for_Sketchup3_89_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_89_.png
+
+newmtl Coal_Pockets_for_Sketchup3_90_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_90_.png
+
+newmtl Coal_Pockets_for_Sketchup3_91_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_91_.png
+
+newmtl Coal_Pockets_for_Sketchup3_92_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_92_.png
+
+newmtl Coal_Pockets_for_Sketchup3_93_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_93_.png
+
+newmtl Coal_Pockets_for_Sketchup3_94_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_94_.png
+
+newmtl Coal_Pockets_for_Sketchup3_95_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_95_.png
+
+newmtl Coal_Pockets_for_Sketchup3_96_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_96_.png
+
+newmtl Coal_Pockets_for_Sketchup3_97_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_97_.png
+
+newmtl Coal_Pockets_for_Sketchup3_98_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_98_.png
+
+newmtl Coal_Pockets_for_Sketchup3_99_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_99_.png
+
+newmtl Coal_Pockets_for_Sketchup3_100_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_100_.png
+
+newmtl Coal_Pockets_for_Sketchup3_101_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_101_.png
+
+newmtl Coal_Pockets_for_Sketchup3_102_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_102_.png
+
+newmtl Coal_Pockets_for_Sketchup3_103_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_103_.png
+
+newmtl Coal_Pockets_for_Sketchup3_104_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_104_.png
+
+newmtl Coal_Pockets_for_Sketchup3_105_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_105_.png
+
+newmtl Coal_Pockets_for_Sketchup3_106_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_106_.png
+
+newmtl Coal_Pockets_for_Sketchup3_107_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_107_.png
+
+newmtl Coal_Pockets_for_Sketchup3_108_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_108_.png
+
+newmtl Coal_Pockets_for_Sketchup3_109_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_109_.png
+
+newmtl Coal_Pockets_for_Sketchup3_110_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_110_.png
+
+newmtl Coal_Pockets_for_Sketchup3_111_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_111_.png
+
+newmtl Coal_Pockets_for_Sketchup3_112_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_112_.png
+
+newmtl Coal_Pockets_for_Sketchup3_113_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_113_.png
+
+newmtl Coal_Pockets_for_Sketchup3_114_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_114_.png
+
+newmtl Coal_Pockets_for_Sketchup3_115_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_115_.png
+
+newmtl Coal_Pockets_for_Sketchup3_116_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_116_.png
+
+newmtl Coal_Pockets_for_Sketchup3_117_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_117_.png
+
+newmtl Coal_Pockets_for_Sketchup3_118_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_118_.png
+
+newmtl Coal_Pockets_for_Sketchup3_119_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_119_.png
+
+newmtl Coal_Pockets_for_Sketchup3_120_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_120_.png
+
+newmtl Coal_Pockets_for_Sketchup3_121_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_121_.png
+
+newmtl Coal_Pockets_for_Sketchup3_122_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_122_.png
+
+newmtl Coal_Pockets_for_Sketchup3_123_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_123_.png
+
+newmtl Coal_Pockets_for_Sketchup3_124_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_124_.png
+
+newmtl Coal_Pockets_for_Sketchup3_125_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_125_.png
+
+newmtl Coal_Pockets_for_Sketchup3_126_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_126_.png
+
+newmtl Coal_Pockets_for_Sketchup3_127_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_127_.png
+
+newmtl Coal_Pockets_for_Sketchup3_128_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_128_.png
+
+newmtl Coal_Pockets_for_Sketchup3_129_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_129_.png
+
+newmtl Coal_Pockets_for_Sketchup3_130_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_130_.png
+
+newmtl Coal_Pockets_for_Sketchup3_131_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_131_.png
+
+newmtl Coal_Pockets_for_Sketchup3_132_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_132_.png
+
+newmtl Coal_Pockets_for_Sketchup3_133_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_133_.png
+
+newmtl Coal_Pockets_for_Sketchup3_134_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_134_.png
+
+newmtl Coal_Pockets_for_Sketchup3_135_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_135_.png
+
+newmtl Coal_Pockets_for_Sketchup3_136_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_136_.png
+
+newmtl Coal_Pockets_for_Sketchup3_137_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_137_.png
+
+newmtl Coal_Pockets_for_Sketchup3_138_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_138_.png
+
+newmtl Coal_Pockets_for_Sketchup3_139_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_139_.png
+
+newmtl Coal_Pockets_for_Sketchup3_140_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_140_.png
+
+newmtl Coal_Pockets_for_Sketchup3_141_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_141_.png
+
+newmtl Coal_Pockets_for_Sketchup3_142_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_142_.png
+
+newmtl Coal_Pockets_for_Sketchup3_143_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_143_.png
+
+newmtl Coal_Pockets_for_Sketchup3_144_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_144_.png
+
+newmtl Coal_Pockets_for_Sketchup3_145_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_145_.png
+
+newmtl Coal_Pockets_for_Sketchup3_146_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_146_.png
+
+newmtl Coal_Pockets_for_Sketchup3_147_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_147_.png
+
+newmtl Coal_Pockets_for_Sketchup3_148_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_148_.png
+
+newmtl Coal_Pockets_for_Sketchup3_149_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_149_.png
+
+newmtl Coal_Pockets_for_Sketchup3_150_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_150_.png
+
+newmtl Coal_Pockets_for_Sketchup3_151_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_151_.png
+
+newmtl Coal_Pockets_for_Sketchup3_152_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_152_.png
+
+newmtl Coal_Pockets_for_Sketchup3_153_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_153_.png
+
+newmtl Coal_Pockets_for_Sketchup3_154_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_154_.png
+
+newmtl Coal_Pockets_for_Sketchup3_155_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_155_.png
+
+newmtl Coal_Pockets_for_Sketchup3_156_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_156_.png
+
+newmtl Coal_Pockets_for_Sketchup3_157_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_157_.png
+
+newmtl Coal_Pockets_for_Sketchup3_158_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_158_.png
+
+newmtl Coal_Pockets_for_Sketchup3_159_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_159_.png
+
+newmtl Coal_Pockets_for_Sketchup3_160_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_160_.png
+
+newmtl Coal_Pockets_for_Sketchup3_161_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_161_.png
+
+newmtl Coal_Pockets_for_Sketchup3_162_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_162_.png
+
+newmtl Coal_Pockets_for_Sketchup3_163_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_163_.png
+
+newmtl Coal_Pockets_for_Sketchup3_164_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_164_.png
+
+newmtl Coal_Pockets_for_Sketchup3_165_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_165_.png
+
+newmtl Coal_Pockets_for_Sketchup3_166_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_166_.png
+
+newmtl Coal_Pockets_for_Sketchup3_167_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_167_.png
+
+newmtl Coal_Pockets_for_Sketchup3_168_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_168_.png
+
+newmtl Coal_Pockets_for_Sketchup3_169_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_169_.png
+
+newmtl Coal_Pockets_for_Sketchup3_170_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_170_.png
+
+newmtl Coal_Pockets_for_Sketchup3_171_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_171_.png
+
+newmtl Coal_Pockets_for_Sketchup3_172_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_172_.png
+
+newmtl Coal_Pockets_for_Sketchup3_173_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_173_.png
+
+newmtl Coal_Pockets_for_Sketchup3_174_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_174_.png
+
+newmtl Coal_Pockets_for_Sketchup3_175_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_175_.png
+
+newmtl Coal_Pockets_for_Sketchup3_176_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_176_.png
+
+newmtl Coal_Pockets_for_Sketchup3_177_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_177_.png
+
+newmtl Coal_Pockets_for_Sketchup3_178_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_178_.png
+
+newmtl Coal_Pockets_for_Sketchup3_179_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_179_.png
+
+newmtl Coal_Pockets_for_Sketchup3_180_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_180_.png
+
+newmtl Coal_Pockets_for_Sketchup3_181_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_181_.png
+
+newmtl Coal_Pockets_for_Sketchup3_182_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_182_.png
+
+newmtl Coal_Pockets_for_Sketchup3_183_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_183_.png
+
+newmtl Coal_Pockets_for_Sketchup3_184_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_184_.png
+
+newmtl Coal_Pockets_for_Sketchup3_185_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_185_.png
+
+newmtl Coal_Pockets_for_Sketchup3_186_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_186_.png
+
+newmtl Coal_Pockets_for_Sketchup3_187_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_187_.png
+
+newmtl Coal_Pockets_for_Sketchup3_188_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_188_.png
+
+newmtl Coal_Pockets_for_Sketchup3_189_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_189_.png
+
+newmtl Coal_Pockets_for_Sketchup3_190_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_190_.png
+
+newmtl Coal_Pockets_for_Sketchup3_191_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_191_.png
+
+newmtl Coal_Pockets_for_Sketchup3_192_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_192_.png
+
+newmtl Coal_Pockets_for_Sketchup3_193_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_193_.png
+
+newmtl Coal_Pockets_for_Sketchup3_194_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_194_.png
+
+newmtl Coal_Pockets_for_Sketchup3_195_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_195_.png
+
+newmtl Coal_Pockets_for_Sketchup3_196_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_196_.png
+
+newmtl Coal_Pockets_for_Sketchup3_197_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_197_.png
+
+newmtl Coal_Pockets_for_Sketchup3_198_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_198_.png
+
+newmtl Coal_Pockets_for_Sketchup3_199_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_199_.png
+
+newmtl Coal_Pockets_for_Sketchup3_200_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_200_.png
+
+newmtl Coal_Pockets_for_Sketchup3_201_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.529412 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd New Darker Coal Pockets 2/Coal_Pockets_for_Sketchup3_201_.png
+

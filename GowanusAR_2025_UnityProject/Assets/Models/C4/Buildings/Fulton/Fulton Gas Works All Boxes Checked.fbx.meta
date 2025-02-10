@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 3bf16711f40ab4cd6ad0d18a672b67a6
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: cb9785ffd9c574d8cbff3d06296f7189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 730b93adea1ee4c9197aac7078208d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified
+    second: {fileID: 2100000, guid: 28ad3140a7b2147ca867c33c6275cec3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified1
+    second: {fileID: 2100000, guid: 1580307af030c49fb96332dbed36b045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified10
+    second: {fileID: 2100000, guid: b50aca1edd2fd422f8572d28126de04a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified11
+    second: {fileID: 2100000, guid: 114de1cf3cb2343e1b530982f9651256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified12
+    second: {fileID: 2100000, guid: e3bf29d8db0fb4999ba6c177d944e688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified13
+    second: {fileID: 2100000, guid: 8242d21f228bc40d9b4068bdede48bdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified14
+    second: {fileID: 2100000, guid: 7c7ee4916f7764292a317f2524301eb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified15
+    second: {fileID: 2100000, guid: 541397c174efe40edbd545a14e9937ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified16
+    second: {fileID: 2100000, guid: 047e9d8b5c7f942749323558b9525a8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified17
+    second: {fileID: 2100000, guid: c841a749e588449ed9732a014d46c978, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified18
+    second: {fileID: 2100000, guid: c448a7437c5b74a4ea7189f2416778f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified19
+    second: {fileID: 2100000, guid: 709e6c5319107403b9620e393fbae76d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified2
+    second: {fileID: 2100000, guid: fb8bf049875b24a91be22682775765bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified20
+    second: {fileID: 2100000, guid: 18a00d71bbe2b4ba09d7ae718f9879fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified21
+    second: {fileID: 2100000, guid: ccb4de4cfadbe4c7291086663af16588, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified22
+    second: {fileID: 2100000, guid: 1f2662cc87e1745ada42abb729fd0ab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified23
+    second: {fileID: 2100000, guid: ae5114f26c9d04425987f56f51e262a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified24
+    second: {fileID: 2100000, guid: 88e61c5df4ec74dc994b87b2cf304bdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified25
+    second: {fileID: 2100000, guid: 6d48e2542dd944070bac5b9eea49889e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified26
+    second: {fileID: 2100000, guid: 4ddd6c40a724f4d21bc162f3efb8b588, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified27
+    second: {fileID: 2100000, guid: c27ed7301b36f4ebdbd583a32a0816b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified28
+    second: {fileID: 2100000, guid: de92dd94478a9424f97d6b729229e741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified29
+    second: {fileID: 2100000, guid: de207e01bc8cd4bf5b96c06257c77013, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified3
+    second: {fileID: 2100000, guid: b6ed34dcd0dff47caa7545802ec43d3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified30
+    second: {fileID: 2100000, guid: adf15a1b1204049a7bb4f087c9f90f22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified31
+    second: {fileID: 2100000, guid: 404e07c599764495984b3b278cf1a0aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified32
+    second: {fileID: 2100000, guid: 0fb6a8b51f96c4d0eabe6717ac2c5bac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified33
+    second: {fileID: 2100000, guid: f99ae7ab18c354b859155bc540a39369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified34
+    second: {fileID: 2100000, guid: fd2e916e8f91d4c3bb5e3baee8a24621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified35
+    second: {fileID: 2100000, guid: 3dae9a750bb9040d9b8d9a6c3f943790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified36
+    second: {fileID: 2100000, guid: f83e882f736ef48a784392a0fccb09da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified37
+    second: {fileID: 2100000, guid: a66b43c046b8a45a79f69af355a5d0ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified38
+    second: {fileID: 2100000, guid: 991b0bb44229746099703b2594e9613b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified39
+    second: {fileID: 2100000, guid: 2462914b1c7644fc691b606c4b7c92e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified4
+    second: {fileID: 2100000, guid: 8f44da99510ac4092855bbc9f79f73f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified40
+    second: {fileID: 2100000, guid: 7e7140065dd344d0cbd78f64ff676f74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified41
+    second: {fileID: 2100000, guid: efda26427d1964689b03defcd5c142af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified42
+    second: {fileID: 2100000, guid: b781082f775e44f9db1e4682134c0a13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified43
+    second: {fileID: 2100000, guid: 411b9aecbef994e629e82472f0ae67f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified44
+    second: {fileID: 2100000, guid: 28a4b058572104e8a8cda7e3b267242f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified45
+    second: {fileID: 2100000, guid: 3e39ae274386141d3a4b5f2a3eb2df10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified46
+    second: {fileID: 2100000, guid: a2f2fe434e8b54475bf8690165043e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified47
+    second: {fileID: 2100000, guid: b225790830a594581a2db0dc6cee35cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified48
+    second: {fileID: 2100000, guid: afd2d13c379a54aeb8246cad1fd0e1bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified49
+    second: {fileID: 2100000, guid: 6da2262a3acb24c168bf6ce7baa31082, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified5
+    second: {fileID: 2100000, guid: e9b567ebf44f740da87cbe85bae066f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified50
+    second: {fileID: 2100000, guid: b288c12dd93b44b17a4074a07906bb07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified51
+    second: {fileID: 2100000, guid: 563504495b58844ea88246cdac5f4671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified52
+    second: {fileID: 2100000, guid: c35e237c822114d3ab8f4ca3f59200a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified53
+    second: {fileID: 2100000, guid: 706758897d08142118e56c590d04602d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified54
+    second: {fileID: 2100000, guid: fe8b36bda824f477da18297db5e7579c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified55
+    second: {fileID: 2100000, guid: e3bdab5a8bfe3471da23fec6f0b3a07a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified56
+    second: {fileID: 2100000, guid: 391a07ae26b8d4f21a769e5ffb56c119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified57
+    second: {fileID: 2100000, guid: 5800085df89c2449a8ddc4e390524c5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified58
+    second: {fileID: 2100000, guid: 01505065eb52342d9ae01962592ead45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified59
+    second: {fileID: 2100000, guid: 42d816caf486145b7b0d3e5fa0a43884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified6
+    second: {fileID: 2100000, guid: a022ec26dc5c14dd6a30d9ea58a98221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified60
+    second: {fileID: 2100000, guid: 6710b6055ef9040e7842ba712db84d02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified7
+    second: {fileID: 2100000, guid: 5e5b50f3ffeae4ce5914da730d5c2fa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified8
+    second: {fileID: 2100000, guid: 5a17ee621c65341879735746dee1d019, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gowanus_Fulton_Gas_Works_Plant_Modified9
+    second: {fileID: 2100000, guid: d412543df13bd4df9871a90497ae68cb, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

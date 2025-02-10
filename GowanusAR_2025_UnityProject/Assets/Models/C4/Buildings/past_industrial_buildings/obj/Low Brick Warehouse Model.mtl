@@ -1,0 +1,27 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Low_Brick_Warehouse_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.647059 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd Low Brick Warehouse Model/Low_Brick_Warehouse_2.png
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Low_Brick_Warehouse_2_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.647059 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd Low Brick Warehouse Model/Low_Brick_Warehouse_2_1_.png
+
+newmtl Low_Brick_Warehouse_2_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.647059 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd Low Brick Warehouse Model/Low_Brick_Warehouse_2_2_.png
+

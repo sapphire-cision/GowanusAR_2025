@@ -1,0 +1,33 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_13_Kensinger_Bowne_Gowanus_DSC_0144
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.588235 0.603922
+Ks 0.330000 0.330000 0.330000
+map_Kd ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144.png
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_13_Kensinger_Bowne_Gowanus_DSC_0144_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.588235 0.603922
+Ks 0.330000 0.330000 0.330000
+map_Kd ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144_1_.png
+
+newmtl M_13_Kensinger_Bowne_Gowanus_DSC_0144_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.588235 0.603922
+Ks 0.330000 0.330000 0.330000
+map_Kd ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144_2_.png
+
+newmtl M_13_Kensinger_Bowne_Gowanus_DSC_0144_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.588235 0.603922
+Ks 0.330000 0.330000 0.330000
+map_Kd ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144_3_.png
+

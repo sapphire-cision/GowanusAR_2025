@@ -1,0 +1,614 @@
+; FBX 7.7.0 project file
+; ----------------------------------------------------
+
+FBXHeaderExtension:  {
+	FBXHeaderVersion: 1004
+	FBXVersion: 7700
+	CreationTimeStamp:  {
+		Version: 1000
+		Year: 2024
+		Month: 10
+		Day: 10
+		Hour: 13
+		Minute: 38
+		Second: 6
+		Millisecond: 0
+	}
+	Creator: "FBX SDK/FBX Plugins version 2020.2"
+	OtherFlags:  {
+		TCDefinition: 127
+	}
+	SceneInfo: "SceneInfo::GlobalInfo", "UserData" {
+		Type: "UserData"
+		Version: 100
+		MetaData:  {
+			Version: 100
+			Title: ""
+			Subject: ""
+			Author: ""
+			Keywords: ""
+			Revision: ""
+			Comment: ""
+		}
+		Properties70:  {
+			P: "DocumentUrl", "KString", "Url", "", "/var/folders/fj/k6jb076d25j0cvvj5nvz7r3h0000gq/T/com.sketchup.SketchUp.2024.sarahdrurybPetje.fbx"
+			P: "SrcDocumentUrl", "KString", "Url", "", "/var/folders/fj/k6jb076d25j0cvvj5nvz7r3h0000gq/T/com.sketchup.SketchUp.2024.sarahdrurybPetje.fbx"
+			P: "Original", "Compound", "", ""
+			P: "Original|ApplicationVendor", "KString", "", "", ""
+			P: "Original|ApplicationName", "KString", "", "", ""
+			P: "Original|ApplicationVersion", "KString", "", "", ""
+			P: "Original|DateTime_GMT", "DateTime", "", "", ""
+			P: "Original|FileName", "KString", "", "", ""
+			P: "LastSaved", "Compound", "", ""
+			P: "LastSaved|ApplicationVendor", "KString", "", "", ""
+			P: "LastSaved|ApplicationName", "KString", "", "", ""
+			P: "LastSaved|ApplicationVersion", "KString", "", "", ""
+			P: "LastSaved|DateTime_GMT", "DateTime", "", "", ""
+		}
+	}
+}
+GlobalSettings:  {
+	Version: 1000
+	Properties70:  {
+		P: "UpAxis", "int", "Integer", "",1
+		P: "UpAxisSign", "int", "Integer", "",1
+		P: "FrontAxis", "int", "Integer", "",2
+		P: "FrontAxisSign", "int", "Integer", "",1
+		P: "CoordAxis", "int", "Integer", "",0
+		P: "CoordAxisSign", "int", "Integer", "",1
+		P: "OriginalUpAxis", "int", "Integer", "",-1
+		P: "OriginalUpAxisSign", "int", "Integer", "",1
+		P: "UnitScaleFactor", "double", "Number", "",1
+		P: "OriginalUnitScaleFactor", "double", "Number", "",1
+		P: "AmbientColor", "ColorRGB", "Color", "",0,0,0
+		P: "DefaultCamera", "KString", "", "", "Producer Perspective"
+		P: "TimeMode", "enum", "", "",0
+		P: "TimeProtocol", "enum", "", "",2
+		P: "SnapOnFrameMode", "enum", "", "",0
+		P: "TimeSpanStart", "KTime", "Time", "",0
+		P: "TimeSpanStop", "KTime", "Time", "",46186158000
+		P: "CustomFrameRate", "double", "Number", "",-1
+		P: "TimeMarker", "Compound", "", ""
+		P: "CurrentTimeMarker", "int", "Integer", "",-1
+	}
+}
+
+; Documents Description
+;------------------------------------------------------------------
+
+Documents:  {
+	Count: 1
+	Document: 105553162852208, "", "Scene" {
+		Properties70:  {
+			P: "SourceObject", "object", "", ""
+			P: "ActiveAnimStackName", "KString", "", "", ""
+		}
+		RootNode: 0
+	}
+}
+
+; Document References
+;------------------------------------------------------------------
+
+References:  {
+}
+
+; Object definitions
+;------------------------------------------------------------------
+
+Definitions:  {
+	Version: 100
+	Count: 17
+	ObjectType: "GlobalSettings" {
+		Count: 1
+	}
+	ObjectType: "Model" {
+		Count: 2
+		PropertyTemplate: "FbxNode" {
+			Properties70:  {
+				P: "QuaternionInterpolate", "enum", "", "",0
+				P: "RotationOffset", "Vector3D", "Vector", "",0,0,0
+				P: "RotationPivot", "Vector3D", "Vector", "",0,0,0
+				P: "ScalingOffset", "Vector3D", "Vector", "",0,0,0
+				P: "ScalingPivot", "Vector3D", "Vector", "",0,0,0
+				P: "TranslationActive", "bool", "", "",0
+				P: "TranslationMin", "Vector3D", "Vector", "",0,0,0
+				P: "TranslationMax", "Vector3D", "Vector", "",0,0,0
+				P: "TranslationMinX", "bool", "", "",0
+				P: "TranslationMinY", "bool", "", "",0
+				P: "TranslationMinZ", "bool", "", "",0
+				P: "TranslationMaxX", "bool", "", "",0
+				P: "TranslationMaxY", "bool", "", "",0
+				P: "TranslationMaxZ", "bool", "", "",0
+				P: "RotationOrder", "enum", "", "",0
+				P: "RotationSpaceForLimitOnly", "bool", "", "",0
+				P: "RotationStiffnessX", "double", "Number", "",0
+				P: "RotationStiffnessY", "double", "Number", "",0
+				P: "RotationStiffnessZ", "double", "Number", "",0
+				P: "AxisLen", "double", "Number", "",10
+				P: "PreRotation", "Vector3D", "Vector", "",0,0,0
+				P: "PostRotation", "Vector3D", "Vector", "",0,0,0
+				P: "RotationActive", "bool", "", "",0
+				P: "RotationMin", "Vector3D", "Vector", "",0,0,0
+				P: "RotationMax", "Vector3D", "Vector", "",0,0,0
+				P: "RotationMinX", "bool", "", "",0
+				P: "RotationMinY", "bool", "", "",0
+				P: "RotationMinZ", "bool", "", "",0
+				P: "RotationMaxX", "bool", "", "",0
+				P: "RotationMaxY", "bool", "", "",0
+				P: "RotationMaxZ", "bool", "", "",0
+				P: "InheritType", "enum", "", "",0
+				P: "ScalingActive", "bool", "", "",0
+				P: "ScalingMin", "Vector3D", "Vector", "",0,0,0
+				P: "ScalingMax", "Vector3D", "Vector", "",1,1,1
+				P: "ScalingMinX", "bool", "", "",0
+				P: "ScalingMinY", "bool", "", "",0
+				P: "ScalingMinZ", "bool", "", "",0
+				P: "ScalingMaxX", "bool", "", "",0
+				P: "ScalingMaxY", "bool", "", "",0
+				P: "ScalingMaxZ", "bool", "", "",0
+				P: "GeometricTranslation", "Vector3D", "Vector", "",0,0,0
+				P: "GeometricRotation", "Vector3D", "Vector", "",0,0,0
+				P: "GeometricScaling", "Vector3D", "Vector", "",1,1,1
+				P: "MinDampRangeX", "double", "Number", "",0
+				P: "MinDampRangeY", "double", "Number", "",0
+				P: "MinDampRangeZ", "double", "Number", "",0
+				P: "MaxDampRangeX", "double", "Number", "",0
+				P: "MaxDampRangeY", "double", "Number", "",0
+				P: "MaxDampRangeZ", "double", "Number", "",0
+				P: "MinDampStrengthX", "double", "Number", "",0
+				P: "MinDampStrengthY", "double", "Number", "",0
+				P: "MinDampStrengthZ", "double", "Number", "",0
+				P: "MaxDampStrengthX", "double", "Number", "",0
+				P: "MaxDampStrengthY", "double", "Number", "",0
+				P: "MaxDampStrengthZ", "double", "Number", "",0
+				P: "PreferedAngleX", "double", "Number", "",0
+				P: "PreferedAngleY", "double", "Number", "",0
+				P: "PreferedAngleZ", "double", "Number", "",0
+				P: "LookAtProperty", "object", "", ""
+				P: "UpVectorProperty", "object", "", ""
+				P: "Show", "bool", "", "",1
+				P: "NegativePercentShapeSupport", "bool", "", "",1
+				P: "DefaultAttributeIndex", "int", "Integer", "",-1
+				P: "Freeze", "bool", "", "",0
+				P: "LODBox", "bool", "", "",0
+				P: "Lcl Translation", "Lcl Translation", "", "A",0,0,0
+				P: "Lcl Rotation", "Lcl Rotation", "", "A",0,0,0
+				P: "Lcl Scaling", "Lcl Scaling", "", "A",1,1,1
+				P: "Visibility", "Visibility", "", "A",1
+				P: "Visibility Inheritance", "Visibility Inheritance", "", "",1
+			}
+		}
+	}
+	ObjectType: "Texture" {
+		Count: 4
+		PropertyTemplate: "FbxFileTexture" {
+			Properties70:  {
+				P: "TextureTypeUse", "enum", "", "",0
+				P: "Texture alpha", "Number", "", "A",1
+				P: "CurrentMappingType", "enum", "", "",0
+				P: "WrapModeU", "enum", "", "",0
+				P: "WrapModeV", "enum", "", "",0
+				P: "UVSwap", "bool", "", "",0
+				P: "PremultiplyAlpha", "bool", "", "",1
+				P: "Translation", "Vector", "", "A",0,0,0
+				P: "Rotation", "Vector", "", "A",0,0,0
+				P: "Scaling", "Vector", "", "A",1,1,1
+				P: "TextureRotationPivot", "Vector3D", "Vector", "",0,0,0
+				P: "TextureScalingPivot", "Vector3D", "Vector", "",0,0,0
+				P: "CurrentTextureBlendMode", "enum", "", "",1
+				P: "UVSet", "KString", "", "", "default"
+				P: "UseMaterial", "bool", "", "",0
+				P: "UseMipMap", "bool", "", "",0
+			}
+		}
+	}
+	ObjectType: "Geometry" {
+		Count: 1
+		PropertyTemplate: "FbxMesh" {
+			Properties70:  {
+				P: "Color", "ColorRGB", "Color", "",0.8,0.8,0.8
+				P: "BBoxMin", "Vector3D", "Vector", "",0,0,0
+				P: "BBoxMax", "Vector3D", "Vector", "",0,0,0
+				P: "Primary Visibility", "bool", "", "",1
+				P: "Casts Shadows", "bool", "", "",1
+				P: "Receive Shadows", "bool", "", "",1
+			}
+		}
+	}
+	ObjectType: "Material" {
+		Count: 5
+		PropertyTemplate: "FbxSurfacePhong" {
+			Properties70:  {
+				P: "ShadingModel", "KString", "", "", "Phong"
+				P: "MultiLayer", "bool", "", "",0
+				P: "EmissiveColor", "Color", "", "A",0,0,0
+				P: "EmissiveFactor", "Number", "", "A",1
+				P: "AmbientColor", "Color", "", "A",0.2,0.2,0.2
+				P: "AmbientFactor", "Number", "", "A",1
+				P: "DiffuseColor", "Color", "", "A",0.8,0.8,0.8
+				P: "DiffuseFactor", "Number", "", "A",1
+				P: "Bump", "Vector3D", "Vector", "",0,0,0
+				P: "NormalMap", "Vector3D", "Vector", "",0,0,0
+				P: "BumpFactor", "double", "Number", "",1
+				P: "TransparentColor", "Color", "", "A",0,0,0
+				P: "TransparencyFactor", "Number", "", "A",0
+				P: "DisplacementColor", "ColorRGB", "Color", "",0,0,0
+				P: "DisplacementFactor", "double", "Number", "",1
+				P: "VectorDisplacementColor", "ColorRGB", "Color", "",0,0,0
+				P: "VectorDisplacementFactor", "double", "Number", "",1
+				P: "SpecularColor", "Color", "", "A",0.2,0.2,0.2
+				P: "SpecularFactor", "Number", "", "A",1
+				P: "ShininessExponent", "Number", "", "A",20
+				P: "ReflectionColor", "Color", "", "A",0,0,0
+				P: "ReflectionFactor", "Number", "", "A",1
+			}
+		}
+	}
+	ObjectType: "Video" {
+		Count: 4
+		PropertyTemplate: "FbxVideo" {
+			Properties70:  {
+				P: "Path", "KString", "XRefUrl", "", ""
+				P: "RelPath", "KString", "XRefUrl", "", ""
+				P: "Color", "ColorRGB", "Color", "",0.8,0.8,0.8
+				P: "ClipIn", "KTime", "Time", "",0
+				P: "ClipOut", "KTime", "Time", "",0
+				P: "Offset", "KTime", "Time", "",0
+				P: "PlaySpeed", "double", "Number", "",0
+				P: "FreeRunning", "bool", "", "",0
+				P: "Loop", "bool", "", "",0
+				P: "Mute", "bool", "", "",0
+				P: "AccessMode", "enum", "", "",0
+				P: "ImageSequence", "bool", "", "",0
+				P: "ImageSequenceOffset", "int", "Integer", "",0
+				P: "FrameRate", "double", "Number", "",0
+				P: "LastFrame", "int", "Integer", "",0
+				P: "Width", "int", "Integer", "",0
+				P: "Height", "int", "Integer", "",0
+				P: "StartFrame", "int", "Integer", "",0
+				P: "StopFrame", "int", "Integer", "",0
+				P: "InterlaceMode", "enum", "", "",0
+			}
+		}
+	}
+}
+
+; Object properties
+;------------------------------------------------------------------
+
+Objects:  {
+	Geometry: 4491271200, "Geometry::", "Mesh" {
+		Vertices: *180 {
+			a: 0,99.4263224952295,-0,-212.426923147387,0,-0,0,0,-0,-9.66601260144006,99.4263224952296,-0,-212.426923147387,105.26260601728,-0,-115.969383015384,152.910838372593,-0,-212.426923147387,105.26260601728,-455.75,0,0,-455.75,-212.426923147387,0,-455.75,-9.66601260144006,99.4263224952296,-455.75,0,99.4263224952295,-455.75,-115.969383015384,152.910838372593,-455.75,0,99.4263224952295,-0,-9.66601260144006,99.4263224952296,-455.75,-9.66601260144006,99.4263224952296,-0,0,99.4263224952295,-455.75,-9.66601260144006,99.4263224952296,-0,-115.969383015384,152.910838372593,-455.75,-115.969383015384,152.910838372593,-0,-9.66601260144006,99.4263224952296,-455.75,-115.969383015384,152.910838372593,-0,-212.426923147387,105.26260601728,-455.75,-212.426923147387,105.26260601728,-0,-115.969383015384,152.910838372593,-455.75,-212.426923147387,105.26260601728,-455.75,-212.426923147387,0,-0,-212.426923147387,105.26260601728,-0,-212.426923147387,0,-455.75,81.25,0,-273.43030440924,0,0,-237.80530440924,0,0,-273.43030440924,81.25,0,-237.80530440924,0,0,-455.75,-212.426923147387,0,-0,-212.426923147387,0,-455.75,0,0,-0,0,0,-455.75,0,31.9375,-273.43030440924,0,0,-273.43030440924,0,0,-237.80530440924,0,99.4263224952295,-0,0,0,-0,0,31.9375,-237.80530440924,0,99.4263224952295,-455.75,81.25,0,-273.43030440924,81.25,31.9375,-237.80530440924,81.25,0,-237.80530440924,81.25,31.9375,-273.43030440924,0,31.9375,-273.43030440924,81.25,0,-273.43030440924,0,0,-273.43030440924,81.25,31.9375,-273.43030440924,81.25,31.9375,-237.80530440924,0,31.9375,-273.43030440924,0,31.9375,-237.80530440924,81.25,31.9375,-273.43030440924,81.25,31.9375,-237.80530440924,0,0,-237.80530440924,81.25,0,-237.80530440924,0,31.9375,-237.80530440924
+		} 
+		PolygonVertexIndex: *108 {
+			a: 0,1,-3,1,0,-4,1,3,-5,4,3,-6,6,7,-9,7,6,-10,7,9,-11,9,6,-12,12,13,-15,13,12,-16,16,17,-19,17,16,-20,20,21,-23,21,20,-24,24,25,-27,25,24,-28,28,29,-31,29,28,-32,32,33,-35,33,32,-36,35,32,-31,35,30,-30,36,37,-39,39,40,-42,40,39,-43,40,42,-44,43,42,-38,43,37,-37,44,45,-47,45,44,-48,48,49,-51,49,48,-52,52,53,-55,53,52,-56,56,57,-59,57,56,-60
+		} 
+		GeometryVersion: 124
+		LayerElementNormal: 0 {
+			Version: 102
+			Name: ""
+			MappingInformationType: "ByVertice"
+			ReferenceInformationType: "Direct"
+			Normals: *180 {
+				a: 0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,-1,0,0,-1,0,0,-1,0,0,-1,0,0,-1,0,0,-1,1.4701878945497e-15,1,-0,1.4701878945497e-15,1,-0,1.4701878945497e-15,1,-0,1.4701878945497e-15,1,-0,0.449449713255152,0.893305633730618,-0,0.449449713255152,0.893305633730618,-0,0.449449713255152,0.893305633730618,-0,0.449449713255152,0.893305633730618,-0,-0.442891496788885,0.896575218301343,-0,-0.442891496788885,0.896575218301343,-0,-0.442891496788885,0.896575218301343,-0,-0.442891496788885,0.896575218301343,-0,-1,0,-0,-1,0,-0,-1,0,-0,-1,0,-0,0,-1,-0,0,-1,-0,0,-1,-0,0,-1,-0,0,-1,-0,0,-1,-0,0,-1,-0,0,-1,-0,1,0,-0,1,0,-0,1,0,-0,1,0,-0,1,0,-0,1,0,-0,1,0,-0,1,0,-0,1,0,-0,1,0,-0,1,0,-0,1,0,-0,0,0,-1,0,0,-1,0,0,-1,0,0,-1,0,1,-0,0,1,-0,0,1,-0,0,1,-0,0,0,1,0,0,1,0,0,1,0,0,1
+			} 
+			NormalsW: *60 {
+				a: 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+			} 
+		}
+		LayerElementUV: 0 {
+			Version: 101
+			Name: ""
+			MappingInformationType: "ByPolygonVertex"
+			ReferenceInformationType: "IndexToDirect"
+			UV: *90 {
+				a: 1,0.650224166928971,0,0,1,0,0.954497233880597,0.650224166928971,0,0.688392053418677,0.45407398790538,1,212.426923147387,105.26260601728,212.426923147387,0,9.66601260144006,99.4263224952296,0,99.4263224952295,115.969383015384,152.910838372593,-1.46175375732081e-13,0,-9.6660126014402,455.75,-9.6660126014402,0,-1.46175375732081e-13,455.75,0,53.3218356480728,455.75,172.321835648073,0,172.321835648073,455.75,53.3218356480728,0,-36.2523648112087,-455.75,-143.836801859059,0,-143.836801859059,-455.75,-36.2523648112087,-455.75,105.26260601728,0,105.26260601728,-455.75,0,-81.25,273.43030440924,0,237.80530440924,0,273.43030440924,-81.25,237.80530440924,0,455.75,212.426923147387,455.75,0.599956784222138,0.321217753996004,0.599956784222138,0,0.521788929038375,0,0,1,0.521788929038375,0.321217753996004,1,1,-8.88178419700125e-16,1,-8.88178419700125e-16,0,0,31.9375,-81.25,0,-81.25,31.9375,81.25,237.80530440924,81.25,273.43030440924
+			} 
+			UVIndex: *108 {
+				a: 0,1,2,1,0,3,1,3,4,4,3,5,6,1,7,1,6,8,1,8,9,8,6,10,11,12,13,12,11,14,15,16,17,16,15,18,19,20,21,20,19,22,23,1,24,1,23,25,26,27,28,27,26,29,30,7,31,7,30,1,1,30,28,1,28,27,2,32,33,34,35,1,35,34,36,35,36,37,37,36,32,37,32,2,2,38,39,38,2,37,40,41,1,41,40,42,43,28,27,28,43,44,37,1,2,1,37,35
+			} 
+		}
+		LayerElementMaterial: 0 {
+			Version: 101
+			Name: ""
+			MappingInformationType: "ByPolygon"
+			ReferenceInformationType: "IndexToDirect"
+			Materials: *36 {
+				a: 0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,3,3,1,1,1,1,4,4
+			} 
+		}
+		Layer: 0 {
+			Version: 100
+			LayerElement:  {
+				Type: "LayerElementNormal"
+				TypedIndex: 0
+			}
+			LayerElement:  {
+				Type: "LayerElementMaterial"
+				TypedIndex: 0
+			}
+			LayerElement:  {
+				Type: "LayerElementTexture"
+				TypedIndex: 0
+			}
+			LayerElement:  {
+				Type: "LayerElementUV"
+				TypedIndex: 0
+			}
+		}
+	}
+	Model: 4841230336, "Model::Model", "Null" {
+		Version: 232
+		Properties70:  {
+			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
+		}
+		Shading: Y
+		Culling: "CullingOff"
+	}
+	Model: 4613803520, "Model::Mesh1", "Mesh" {
+		Version: 232
+		Properties70:  {
+			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
+			P: "DefaultAttributeIndex", "int", "Integer", "",0
+		}
+		Shading: T
+		Culling: "CullingOff"
+	}
+	Material: 5940292016, "Material::M_13_Kensinger_Bowne_Gowanus_DSC_0144", "" {
+		Version: 102
+		ShadingModel: "phong"
+		MultiLayer: 0
+		Properties70:  {
+			P: "AmbientColor", "Color", "", "A",0,0,0
+			P: "DiffuseColor", "Color", "", "A",0.611764705882353,0.588235294117647,0.603921568627451
+			P: "TransparentColor", "Color", "", "A",1,1,1
+			P: "SpecularColor", "Color", "", "A",0.33,0.33,0.33
+			P: "ReflectionFactor", "Number", "", "A",0
+			P: "Emissive", "Vector3D", "Vector", "",0,0,0
+			P: "Ambient", "Vector3D", "Vector", "",0,0,0
+			P: "Diffuse", "Vector3D", "Vector", "",0.611764705882353,0.588235294117647,0.603921568627451
+			P: "Specular", "Vector3D", "Vector", "",0.33,0.33,0.33
+			P: "Shininess", "double", "Number", "",20
+			P: "Opacity", "double", "Number", "",1
+			P: "Reflectivity", "double", "Number", "",0
+		}
+	}
+	Material: 5940288736, "Material::FrontColor", "" {
+		Version: 102
+		ShadingModel: "phong"
+		MultiLayer: 0
+		Properties70:  {
+			P: "AmbientColor", "Color", "", "A",0,0,0
+			P: "DiffuseColor", "Color", "", "A",1,1,1
+			P: "TransparentColor", "Color", "", "A",1,1,1
+			P: "SpecularColor", "Color", "", "A",0.33,0.33,0.33
+			P: "ReflectionFactor", "Number", "", "A",0
+			P: "Emissive", "Vector3D", "Vector", "",0,0,0
+			P: "Ambient", "Vector3D", "Vector", "",0,0,0
+			P: "Diffuse", "Vector3D", "Vector", "",1,1,1
+			P: "Specular", "Vector3D", "Vector", "",0.33,0.33,0.33
+			P: "Shininess", "double", "Number", "",20
+			P: "Opacity", "double", "Number", "",1
+			P: "Reflectivity", "double", "Number", "",0
+		}
+	}
+	Material: 5123372304, "Material::M_13_Kensinger_Bowne_Gowanus_DSC_0144_1", "" {
+		Version: 102
+		ShadingModel: "phong"
+		MultiLayer: 0
+		Properties70:  {
+			P: "AmbientColor", "Color", "", "A",0,0,0
+			P: "DiffuseColor", "Color", "", "A",0.611764705882353,0.588235294117647,0.603921568627451
+			P: "TransparentColor", "Color", "", "A",1,1,1
+			P: "SpecularColor", "Color", "", "A",0.33,0.33,0.33
+			P: "ReflectionFactor", "Number", "", "A",0
+			P: "Emissive", "Vector3D", "Vector", "",0,0,0
+			P: "Ambient", "Vector3D", "Vector", "",0,0,0
+			P: "Diffuse", "Vector3D", "Vector", "",0.611764705882353,0.588235294117647,0.603921568627451
+			P: "Specular", "Vector3D", "Vector", "",0.33,0.33,0.33
+			P: "Shininess", "double", "Number", "",20
+			P: "Opacity", "double", "Number", "",1
+			P: "Reflectivity", "double", "Number", "",0
+		}
+	}
+	Material: 5940294784, "Material::M_13_Kensinger_Bowne_Gowanus_DSC_0144_2", "" {
+		Version: 102
+		ShadingModel: "phong"
+		MultiLayer: 0
+		Properties70:  {
+			P: "AmbientColor", "Color", "", "A",0,0,0
+			P: "DiffuseColor", "Color", "", "A",0.611764705882353,0.588235294117647,0.603921568627451
+			P: "TransparentColor", "Color", "", "A",1,1,1
+			P: "SpecularColor", "Color", "", "A",0.33,0.33,0.33
+			P: "ReflectionFactor", "Number", "", "A",0
+			P: "Emissive", "Vector3D", "Vector", "",0,0,0
+			P: "Ambient", "Vector3D", "Vector", "",0,0,0
+			P: "Diffuse", "Vector3D", "Vector", "",0.611764705882353,0.588235294117647,0.603921568627451
+			P: "Specular", "Vector3D", "Vector", "",0.33,0.33,0.33
+			P: "Shininess", "double", "Number", "",20
+			P: "Opacity", "double", "Number", "",1
+			P: "Reflectivity", "double", "Number", "",0
+		}
+	}
+	Material: 4491572160, "Material::M_13_Kensinger_Bowne_Gowanus_DSC_0144_3", "" {
+		Version: 102
+		ShadingModel: "phong"
+		MultiLayer: 0
+		Properties70:  {
+			P: "AmbientColor", "Color", "", "A",0,0,0
+			P: "DiffuseColor", "Color", "", "A",0.611764705882353,0.588235294117647,0.603921568627451
+			P: "TransparentColor", "Color", "", "A",1,1,1
+			P: "SpecularColor", "Color", "", "A",0.33,0.33,0.33
+			P: "ReflectionFactor", "Number", "", "A",0
+			P: "Emissive", "Vector3D", "Vector", "",0,0,0
+			P: "Ambient", "Vector3D", "Vector", "",0,0,0
+			P: "Diffuse", "Vector3D", "Vector", "",0.611764705882353,0.588235294117647,0.603921568627451
+			P: "Specular", "Vector3D", "Vector", "",0.33,0.33,0.33
+			P: "Shininess", "double", "Number", "",20
+			P: "Opacity", "double", "Number", "",1
+			P: "Reflectivity", "double", "Number", "",0
+		}
+	}
+	Video: 5940251312, "Video::M_13_Kensinger_Bowne_Gowanus_DSC_0144_texture", "Clip" {
+		Type: "Clip"
+		Properties70:  {
+			P: "Path", "KString", "XRefUrl", "", "ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144.png"
+			P: "RelPath", "KString", "XRefUrl", "", "../../../../../M_13_Kensinger_Bowne_Gowanus_DSC_0144.png"
+		}
+		UseMipMap: 0
+		Filename: "ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144.png"
+		RelativeFilename: "../../../../../M_13_Kensinger_Bowne_Gowanus_DSC_0144.png"
+	}
+	Video: 5940251776, "Video::M_13_Kensinger_Bowne_Gowanus_DSC_0144_1_texture", "Clip" {
+		Type: "Clip"
+		Properties70:  {
+			P: "Path", "KString", "XRefUrl", "", "ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144_1.png"
+			P: "RelPath", "KString", "XRefUrl", "", "../../../../../M_13_Kensinger_Bowne_Gowanus_DSC_0144_1.png"
+		}
+		UseMipMap: 0
+		Filename: "ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144_1.png"
+		RelativeFilename: "../../../../../M_13_Kensinger_Bowne_Gowanus_DSC_0144_1.png"
+	}
+	Video: 5940266400, "Video::M_13_Kensinger_Bowne_Gowanus_DSC_0144_2_texture", "Clip" {
+		Type: "Clip"
+		Properties70:  {
+			P: "Path", "KString", "XRefUrl", "", "ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144_2.png"
+			P: "RelPath", "KString", "XRefUrl", "", "../../../../../M_13_Kensinger_Bowne_Gowanus_DSC_0144_2.png"
+		}
+		UseMipMap: 0
+		Filename: "ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144_2.png"
+		RelativeFilename: "../../../../../M_13_Kensinger_Bowne_Gowanus_DSC_0144_2.png"
+	}
+	Video: 5940266864, "Video::M_13_Kensinger_Bowne_Gowanus_DSC_0144_3_texture", "Clip" {
+		Type: "Clip"
+		Properties70:  {
+			P: "Path", "KString", "XRefUrl", "", "ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144_3.png"
+			P: "RelPath", "KString", "XRefUrl", "", "../../../../../M_13_Kensinger_Bowne_Gowanus_DSC_0144_3.png"
+		}
+		UseMipMap: 0
+		Filename: "ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144_3.png"
+		RelativeFilename: "../../../../../M_13_Kensinger_Bowne_Gowanus_DSC_0144_3.png"
+	}
+	Texture: 5940293856, "Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_texture", "" {
+		Type: "TextureVideoClip"
+		Version: 202
+		TextureName: "Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_texture"
+		Media: "Video::M_13_Kensinger_Bowne_Gowanus_DSC_0144_texture"
+		FileName: "ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144.png"
+		RelativeFilename: "../../../../../M_13_Kensinger_Bowne_Gowanus_DSC_0144.png"
+		ModelUVTranslation: 0,0
+		ModelUVScaling: 1,1
+		Texture_Alpha_Source: "None"
+		Cropping: 0,0,0,0
+	}
+	Texture: 5123405792, "Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_1_texture", "" {
+		Type: "TextureVideoClip"
+		Version: 202
+		TextureName: "Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_1_texture"
+		Media: "Video::M_13_Kensinger_Bowne_Gowanus_DSC_0144_1_texture"
+		FileName: "ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144_1.png"
+		RelativeFilename: "../../../../../M_13_Kensinger_Bowne_Gowanus_DSC_0144_1.png"
+		ModelUVTranslation: 0,0
+		ModelUVScaling: 1,1
+		Texture_Alpha_Source: "None"
+		Cropping: 0,0,0,0
+	}
+	Texture: 5940250848, "Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_2_texture", "" {
+		Type: "TextureVideoClip"
+		Version: 202
+		TextureName: "Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_2_texture"
+		Media: "Video::M_13_Kensinger_Bowne_Gowanus_DSC_0144_2_texture"
+		FileName: "ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144_2.png"
+		RelativeFilename: "../../../../../M_13_Kensinger_Bowne_Gowanus_DSC_0144_2.png"
+		ModelUVTranslation: 0,0
+		ModelUVScaling: 1,1
+		Texture_Alpha_Source: "None"
+		Cropping: 0,0,0,0
+	}
+	Texture: 4491572640, "Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_3_texture", "" {
+		Type: "TextureVideoClip"
+		Version: 202
+		TextureName: "Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_3_texture"
+		Media: "Video::M_13_Kensinger_Bowne_Gowanus_DSC_0144_3_texture"
+		FileName: "ENote Building/M_13_Kensinger_Bowne_Gowanus_DSC_0144_3.png"
+		RelativeFilename: "../../../../../M_13_Kensinger_Bowne_Gowanus_DSC_0144_3.png"
+		ModelUVTranslation: 0,0
+		ModelUVScaling: 1,1
+		Texture_Alpha_Source: "None"
+		Cropping: 0,0,0,0
+	}
+}
+
+; Object connections
+;------------------------------------------------------------------
+
+Connections:  {
+	
+	;Model::Model, Model::RootNode
+	C: "OO",4841230336,0
+	
+	;Model::Mesh1, Model::Model
+	C: "OO",4613803520,4841230336
+	
+	;Geometry::, Model::Mesh1
+	C: "OO",4491271200,4613803520
+	
+	;Material::M_13_Kensinger_Bowne_Gowanus_DSC_0144, Model::Mesh1
+	C: "OO",5940292016,4613803520
+	
+	;Material::FrontColor, Model::Mesh1
+	C: "OO",5940288736,4613803520
+	
+	;Material::M_13_Kensinger_Bowne_Gowanus_DSC_0144_1, Model::Mesh1
+	C: "OO",5123372304,4613803520
+	
+	;Material::M_13_Kensinger_Bowne_Gowanus_DSC_0144_2, Model::Mesh1
+	C: "OO",5940294784,4613803520
+	
+	;Material::M_13_Kensinger_Bowne_Gowanus_DSC_0144_3, Model::Mesh1
+	C: "OO",4491572160,4613803520
+	
+	;Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_texture, Model::Mesh1
+	C: "OO",5940293856,4613803520
+	
+	;Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_1_texture, Model::Mesh1
+	C: "OO",5123405792,4613803520
+	
+	;Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_2_texture, Model::Mesh1
+	C: "OO",5940250848,4613803520
+	
+	;Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_3_texture, Model::Mesh1
+	C: "OO",4491572640,4613803520
+	
+	;Video::M_13_Kensinger_Bowne_Gowanus_DSC_0144_texture, Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_texture
+	C: "OO",5940251312,5940293856
+	
+	;Video::M_13_Kensinger_Bowne_Gowanus_DSC_0144_1_texture, Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_1_texture
+	C: "OO",5940251776,5123405792
+	
+	;Video::M_13_Kensinger_Bowne_Gowanus_DSC_0144_2_texture, Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_2_texture
+	C: "OO",5940266400,5940250848
+	
+	;Video::M_13_Kensinger_Bowne_Gowanus_DSC_0144_3_texture, Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_3_texture
+	C: "OO",5940266864,4491572640
+	
+	;Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_texture, Material::M_13_Kensinger_Bowne_Gowanus_DSC_0144
+	C: "OP",5940293856,5940292016, "DiffuseColor"
+	
+	;Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_1_texture, Material::M_13_Kensinger_Bowne_Gowanus_DSC_0144_1
+	C: "OP",5123405792,5123372304, "DiffuseColor"
+	
+	;Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_2_texture, Material::M_13_Kensinger_Bowne_Gowanus_DSC_0144_2
+	C: "OP",5940250848,5940294784, "DiffuseColor"
+	
+	;Texture::M_13_Kensinger_Bowne_Gowanus_DSC_0144_3_texture, Material::M_13_Kensinger_Bowne_Gowanus_DSC_0144_3
+	C: "OP",4491572640,4491572160, "DiffuseColor"
+}
+;Takes section
+;----------------------------------------------------
+
+Takes:  {
+	Current: ""
+}
