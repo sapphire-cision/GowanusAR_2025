@@ -1,3 +1,6 @@
 GowanusAR_2025_UnityProject/ProjectSettings/ProjectVersion.txt
 *generated take*
 *editable take*
+*.blob
+GowanusAR_2025_UnityProject/ProjectSettings/Packages/com.unity.muse.common/Settings.json
+GowanusAR_2025_UnityProject/Packages/packages-lock.json
