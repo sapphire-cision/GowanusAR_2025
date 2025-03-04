@@ -11,7 +11,7 @@ public class TransitionItemManager : MonoBehaviour
     private Quaternion endRotation;
 
     // Movement speed in units per second.
-    public float speed = 0.2f;
+    public float speed = 2.0f;
 
     // Time when the movement started.
     private float startTime;
