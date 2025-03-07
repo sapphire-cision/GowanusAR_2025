@@ -3,6 +3,7 @@ using UnityEditor;
 
 public class MaterialTransparencyEditor
 {
+#if UNITY_EDITOR
     private const string MaterialName = "Girl_Base_SG"; // The material to modify
 
     [MenuItem("Tools/Material/Toggle Surface Type %#t")]
@@ -34,4 +35,5 @@ public class MaterialTransparencyEditor
 
         Debug.Log($"Material '{MaterialName}' Surface Type toggled to {(currentSurfaceType == 0 ? "Transparent" : "Opaque")}.");
     }
+#endif
 }
