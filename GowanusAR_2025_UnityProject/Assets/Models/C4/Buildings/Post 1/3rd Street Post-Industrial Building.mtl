@@ -1,0 +1,63 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_119_3rd_Street_Less_Distorted
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.564706 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd 3rd Street Post-Industrial Building/M_119_3rd_Street_Less_Distorted.png
+
+newmtl M_119_3rd_Street_Less_Distorted1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.564706 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd 3rd Street Post-Industrial Building/M_119_3rd_Street_Less_Distorted1_.png
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_119_3rd_Street_Less_Distorted2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.564706 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd 3rd Street Post-Industrial Building/M_119_3rd_Street_Less_Distorted2_.png
+
+newmtl M_119_3rd_Street_Less_Distorted3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.564706 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd 3rd Street Post-Industrial Building/M_119_3rd_Street_Less_Distorted3_.png
+
+newmtl M_119_3rd_Street_Less_Distorted4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.564706 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd 3rd Street Post-Industrial Building/M_119_3rd_Street_Less_Distorted4_.png
+
+newmtl M_119_3rd_Street_Less_Distorted5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.564706 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd 3rd Street Post-Industrial Building/M_119_3rd_Street_Less_Distorted5_.png
+
+newmtl M_119_3rd_Street_Less_Distorted6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.564706 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd 3rd Street Post-Industrial Building/M_119_3rd_Street_Less_Distorted6_.png
+
+newmtl M_119_3rd_Street_Less_Distorted7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.564706 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd 3rd Street Post-Industrial Building/M_119_3rd_Street_Less_Distorted7_.png
+
+newmtl M_119_3rd_Street_Less_Distorted8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.564706 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd 3rd Street Post-Industrial Building/M_119_3rd_Street_Less_Distorted8_.png
+

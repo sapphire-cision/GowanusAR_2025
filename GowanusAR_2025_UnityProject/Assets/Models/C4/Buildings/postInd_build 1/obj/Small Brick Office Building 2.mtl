@@ -1,0 +1,21 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Rectangular_Brick_Building
+Ka 0.000000 0.000000 0.000000
+Kd 0.396078 0.388235 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd Small Brick Office Building 2/Rectangular_Brick_Building.png
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Rectangular_Brick_Building1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.396078 0.388235 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd Small Brick Office Building 2/Rectangular_Brick_Building1_.png
+

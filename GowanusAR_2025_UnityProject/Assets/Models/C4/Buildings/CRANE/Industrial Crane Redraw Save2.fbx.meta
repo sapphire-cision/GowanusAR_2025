@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 2c99ef4aef28246f8a8bbc906378500d
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane
+    second: {fileID: 2100000, guid: e9868f4b8007f49eeab1513add4fc012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane1
+    second: {fileID: 2100000, guid: 4e5625a7aa38843679af091bd0baad30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane10
+    second: {fileID: 2100000, guid: dc53c975d6686436e96a2415177478f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane100
+    second: {fileID: 2100000, guid: 4430a459150a5482c843009193252003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane101
+    second: {fileID: 2100000, guid: c937bbe08c4de482683341ce3f1fe5c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane102
+    second: {fileID: 2100000, guid: 720833d88e6814d669c45328aca4a220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane103
+    second: {fileID: 2100000, guid: a6d02cd23fd3146e89e3e4e0fcf42224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane104
+    second: {fileID: 2100000, guid: 5c4e26aa380eb495ab03ef25ec70a9f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane105
+    second: {fileID: 2100000, guid: 7da82f5756665476bbafa1e33db1f595, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane106
+    second: {fileID: 2100000, guid: 7f4664760efae41778b9de0d001858b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane107
+    second: {fileID: 2100000, guid: ea7e8143df9434979bda5f032af44b07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane108
+    second: {fileID: 2100000, guid: 1a0d06801ee6d4620a55633693e3d608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane109
+    second: {fileID: 2100000, guid: 3f6b7f49018894a66b0e6f04e8e6e306, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane11
+    second: {fileID: 2100000, guid: 90bce384c3c8c440da151040dae99fae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane110
+    second: {fileID: 2100000, guid: a07aceb0435a3452090ae2b3dd3319cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane111
+    second: {fileID: 2100000, guid: b72ca14c25cc7441f952061d1e4c2e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane112
+    second: {fileID: 2100000, guid: 27eacf589ebfa4d18ba542f504212d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane12
+    second: {fileID: 2100000, guid: 69d407c73766f410ba11e07f6f9ec9a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane13
+    second: {fileID: 2100000, guid: 6247a10cdd0f24e888d6b70330270a99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane14
+    second: {fileID: 2100000, guid: 7f4bd9f7be547451fb9ed59959662070, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane15
+    second: {fileID: 2100000, guid: d8138c9afaf764fe2b219aa01cd226d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane16
+    second: {fileID: 2100000, guid: f86cdabb34a6c4d0c9882f77c8b80eb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane17
+    second: {fileID: 2100000, guid: a578cf197e6854a549867cb1bf20e471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane18
+    second: {fileID: 2100000, guid: b4f2e6fc7af3047b5b370298a8283c5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane19
+    second: {fileID: 2100000, guid: 4d8496e52f85f42a789949f8171556d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane2
+    second: {fileID: 2100000, guid: e842d03ccab8f476487d4d43d3f303b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane20
+    second: {fileID: 2100000, guid: 1e8681ec7bacf4458a1bc6d14cc46052, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane21
+    second: {fileID: 2100000, guid: e919843fab2f442ea992ae0896a6bcab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane22
+    second: {fileID: 2100000, guid: 8f95e3884e00d42c4acf4a62f70e4ce5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane23
+    second: {fileID: 2100000, guid: 334895e23bd654e90aace074cd7889ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane24
+    second: {fileID: 2100000, guid: 8f75efec9d3da4991b69d6a59743a3f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane25
+    second: {fileID: 2100000, guid: 9993ffc906fcc48d89884e32b90c0b23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane26
+    second: {fileID: 2100000, guid: cfa7b592e33a54290bfa1773c6a37d1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane27
+    second: {fileID: 2100000, guid: 0e1942e6931e54d67bd2c34c9fb84895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane28
+    second: {fileID: 2100000, guid: b09db407bda814a50b0d05a21ed262ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane29
+    second: {fileID: 2100000, guid: 90ad723863be145a69e2ac1af0dd0a2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane3
+    second: {fileID: 2100000, guid: e28864c7391394f75a18b7f80662314f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane30
+    second: {fileID: 2100000, guid: c20bb47517b8a454ea9d3dd4ff42ff43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane31
+    second: {fileID: 2100000, guid: c9bce62347c224bfdabb376de3b85d25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane32
+    second: {fileID: 2100000, guid: 9ab7c684082924db3b7a83e275925e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane33
+    second: {fileID: 2100000, guid: edf20fee2b1db4400a44aefd1cae4a66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane34
+    second: {fileID: 2100000, guid: c2afcbc06e31e46308452b4a0fb5d0a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane35
+    second: {fileID: 2100000, guid: 6615f004945db42c29fe46152490983b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane36
+    second: {fileID: 2100000, guid: da50954a3f80a4248b3b0c80864e0b77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane37
+    second: {fileID: 2100000, guid: a014a8c048d2044c3b8ac6c7bce9bf52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane38
+    second: {fileID: 2100000, guid: e2d96eb2bbf144040bfce43ecee4acd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane39
+    second: {fileID: 2100000, guid: 8a2b9169325ea4734a3ec5793de947cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane4
+    second: {fileID: 2100000, guid: 3f73f2430a1da443397b69ce1d350dbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane40
+    second: {fileID: 2100000, guid: 3a227352cc95e42df8728fe1aad86a18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane41
+    second: {fileID: 2100000, guid: 161c13408154f4439a97c2b94ca912cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane42
+    second: {fileID: 2100000, guid: 9cc657a3f2a5b411996c35ca779a9e13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane43
+    second: {fileID: 2100000, guid: 7f47cfad616984a178acc1ba8632d375, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane44
+    second: {fileID: 2100000, guid: 717710b95d2094c7289dadbcb52acfec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane45
+    second: {fileID: 2100000, guid: f36fef9a29082461192073f484d05827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane46
+    second: {fileID: 2100000, guid: d2196d819c9804d2baa8a64f001e0ee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane47
+    second: {fileID: 2100000, guid: 0e5d1bec5ed3a41909d40a1833c462ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane48
+    second: {fileID: 2100000, guid: 661956649f7ba4c058347af99c64a65d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane49
+    second: {fileID: 2100000, guid: faaeb547abe1840dba25cf5dea3ed39d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane5
+    second: {fileID: 2100000, guid: b133a0b918f004dfe94632ec140815a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane50
+    second: {fileID: 2100000, guid: a9cf7167864d14409b8f8fb84d365b47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane51
+    second: {fileID: 2100000, guid: eb430dba1b86f4058b1f5a017eafae73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane52
+    second: {fileID: 2100000, guid: 6d91d06572334414ab5937fb42314caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane53
+    second: {fileID: 2100000, guid: 88d8e96e8e3444fd0808bfaea976c57c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane54
+    second: {fileID: 2100000, guid: 245796782b9b34eca892a1a26f5fc495, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane55
+    second: {fileID: 2100000, guid: 68b454e56a5d9473989c8be4a59d0ccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane56
+    second: {fileID: 2100000, guid: c27d499bb385a4479a00c43cb338188c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane57
+    second: {fileID: 2100000, guid: d5c3e1cbb9e2149e181208f64261fb88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane58
+    second: {fileID: 2100000, guid: 23d99b47ae2ac4eaeab6044448dbe425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane59
+    second: {fileID: 2100000, guid: 0098d9fe30314468eac49ef0cd16d9d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane6
+    second: {fileID: 2100000, guid: 6b64747ef8ab24314800b185ea9017dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane60
+    second: {fileID: 2100000, guid: daa99aefc4fd04fadb3df2b4ef6e96a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane61
+    second: {fileID: 2100000, guid: 429e4a77873e04c40867160382080a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane62
+    second: {fileID: 2100000, guid: 166fe624620124162bddc5d84b62735c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane63
+    second: {fileID: 2100000, guid: 05f4f634defb6486bab23ef5c0dcdbf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane64
+    second: {fileID: 2100000, guid: 765dd6954349341f7977ad3ebb0c48f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane65
+    second: {fileID: 2100000, guid: ae4ac1370e79f4e84a11467a08894fef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane66
+    second: {fileID: 2100000, guid: fdc21e3ec1fc44d4ea5b263e078cf83c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane67
+    second: {fileID: 2100000, guid: be4351099e22944c7838ec5fd7655486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane68
+    second: {fileID: 2100000, guid: 780a3c3e3d4cc402883b5702fc7d3e4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane69
+    second: {fileID: 2100000, guid: 73192871848a042d19defb09ac047c48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane7
+    second: {fileID: 2100000, guid: 46ae87b0078044f828b18226eb578f70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane70
+    second: {fileID: 2100000, guid: fd813c80f9f9c4c7d8de49a9a6b883bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane71
+    second: {fileID: 2100000, guid: b07c5958a630545f19bf5a3dde177746, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane72
+    second: {fileID: 2100000, guid: b849fb6bab69547ba98e7e83c3b5a116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane73
+    second: {fileID: 2100000, guid: 0df7b3eafcf9d42fc95d5933552d739c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane74
+    second: {fileID: 2100000, guid: ddc62bbce2c9846eba717d42cb131dff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane75
+    second: {fileID: 2100000, guid: bc0a48ad83cd74aa2aea21942eee9abc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane76
+    second: {fileID: 2100000, guid: 5dc9fc9c84eb64ef6a4200104f09a613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane77
+    second: {fileID: 2100000, guid: c8b68839c83a6496183f9b0510070b86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane78
+    second: {fileID: 2100000, guid: 3bb1716a7a4704807a16bf1df5f226ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane79
+    second: {fileID: 2100000, guid: 485e02e259b18406a99f77afb90c3d2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane8
+    second: {fileID: 2100000, guid: 7a7a7474738dd44f0af90777da3db1df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane80
+    second: {fileID: 2100000, guid: 0c56c946a22f74be9a29cb797a66e4b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane81
+    second: {fileID: 2100000, guid: 7118ba0c1c6a94428ac32a4c6ce87ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane82
+    second: {fileID: 2100000, guid: 03ea2a14cb9e24f13b0402faee27f2d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane83
+    second: {fileID: 2100000, guid: 0c4b17d03c84c46f285a05b30d37d3c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane84
+    second: {fileID: 2100000, guid: 3bfde9befe4444a6db1011eef33fd551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane85
+    second: {fileID: 2100000, guid: d21e7b0ae2ad74da6a43fada30fbc850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane86
+    second: {fileID: 2100000, guid: 8cfa19c577df242eda0c8121cc32430f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane87
+    second: {fileID: 2100000, guid: c0248d49ef4bc4611845642baee611f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane88
+    second: {fileID: 2100000, guid: 6773e0a0ebb4d4dc89b609f1c8c57777, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane89
+    second: {fileID: 2100000, guid: aa6adf673d0d74d1da5c97b15de5a750, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane9
+    second: {fileID: 2100000, guid: c54b41f496c08473fb755093da574c30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane90
+    second: {fileID: 2100000, guid: 9f2c5d8959a4b4fc0ac182d76766cac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane91
+    second: {fileID: 2100000, guid: 5f69fcd25ecd04ae29293d646d242b6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane92
+    second: {fileID: 2100000, guid: 10bf570f4b6344c7982a8c05e869c334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane93
+    second: {fileID: 2100000, guid: 1b5f1839b959245629dbd93d7c421848, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane94
+    second: {fileID: 2100000, guid: c9a6296baf7a4431abc35a8332c80fc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane95
+    second: {fileID: 2100000, guid: 0abee59bd5bdf4eb6b6d5d367a558672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane96
+    second: {fileID: 2100000, guid: ee84153f56e6b48e78bf88bd80866b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane97
+    second: {fileID: 2100000, guid: accab3fb7d7e74294bdb16a370a35294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane98
+    second: {fileID: 2100000, guid: 4601b83ab59f0458ebe80cf39daf0769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archival_Photo_of_a_Crane99
+    second: {fileID: 2100000, guid: 059af313ef01e4701a0b14ef6e3edbfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 5dd4ba8a209f54fb6afa3cfca30ddc1e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

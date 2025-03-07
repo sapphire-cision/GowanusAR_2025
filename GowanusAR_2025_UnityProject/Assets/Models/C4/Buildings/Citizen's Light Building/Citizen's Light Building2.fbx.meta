@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 8655ef646c89c45abbf47d62435c8312
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: f7703747c851a4a1298b90685f611dcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_Building_Croopped_Texture
+    second: {fileID: 2100000, guid: 9fe9591ab05394d95a233b6394896c0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant
+    second: {fileID: 2100000, guid: e6e3de1a1f51141b2a6e28db85d90d9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant1
+    second: {fileID: 2100000, guid: 5223430813097436ea394fb09a50d265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant10
+    second: {fileID: 2100000, guid: be311265b48c64df4b903d8fed4e07e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant11
+    second: {fileID: 2100000, guid: bba190a22e6cf495881937cb8cfae4fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant12
+    second: {fileID: 2100000, guid: b983b32809db54d6e9cb6f83f3802500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant13
+    second: {fileID: 2100000, guid: abbaf42548870495c8c9839b65656f83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant14
+    second: {fileID: 2100000, guid: ba9dd293888f34bc29b8a2b0ba082e75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant15
+    second: {fileID: 2100000, guid: 9f6337acbda6c442591f422bd50e694c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant16
+    second: {fileID: 2100000, guid: cbac7a673e7ce4b649afee2861f5def2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant17
+    second: {fileID: 2100000, guid: 07b9031f71f1749479ac719eadf31a26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant18
+    second: {fileID: 2100000, guid: 0f77f59c53fe64d1aa24e5e7690e4ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant19
+    second: {fileID: 2100000, guid: 4881df5da29004974bb6f3e2ab983935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant2
+    second: {fileID: 2100000, guid: 0568f6868ef1d47d39ce7d4180e2566d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant20
+    second: {fileID: 2100000, guid: 30fa1cb80896c40d48bb8beb555d5eed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant21
+    second: {fileID: 2100000, guid: 31cf1ca24da444261b323e28942c26c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant22
+    second: {fileID: 2100000, guid: 8c116a65c2e8c4d6989cef7ec41f836c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant23
+    second: {fileID: 2100000, guid: 6a446c084b60a46b397d839ff41793b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant24
+    second: {fileID: 2100000, guid: 639ffb8abba644eb9b12a91f30c09edc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant25
+    second: {fileID: 2100000, guid: 463bccabf9d7b4037bbec14dd6bf2919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant26
+    second: {fileID: 2100000, guid: 560b1bf81b4b74102a5e502f3f551bae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant27
+    second: {fileID: 2100000, guid: fcf6c464d97aa48c3bced8e23c5742ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant28
+    second: {fileID: 2100000, guid: 1de1abd4a7d5f47f3a5ce639069baa56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant29
+    second: {fileID: 2100000, guid: d9d418f6dafb14ce69d41066e812056d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant3
+    second: {fileID: 2100000, guid: d104c31a716dd4bcbb4e6d1e448c07ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant30
+    second: {fileID: 2100000, guid: 3f6da0258043b4ea991776e27cc5b5fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant31
+    second: {fileID: 2100000, guid: 5a4b247c2514a4b499517e2b676e653d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant32
+    second: {fileID: 2100000, guid: 35e15cd754dea45bdad4f695f681f80c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant33
+    second: {fileID: 2100000, guid: 206a1d383694f4afd918d492b2dc16d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant34
+    second: {fileID: 2100000, guid: bbfcce92ab5ff4d15bb67e9453362481, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant35
+    second: {fileID: 2100000, guid: 3cc3e957b8c2c49f6ab341621230c168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant36
+    second: {fileID: 2100000, guid: 1fb969a8f393744669d7eac26797904e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant37
+    second: {fileID: 2100000, guid: 156c215331a5a4be595e5f50599fb712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant38
+    second: {fileID: 2100000, guid: e545657c08d5f42fba4032f1083ccda7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant39
+    second: {fileID: 2100000, guid: 7ed89e8a2415b4a199e743f4760a82e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant4
+    second: {fileID: 2100000, guid: 8875256b064e347788cd4400cd8a8be6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant40
+    second: {fileID: 2100000, guid: 804c107a5ebed46b29fb3a5a34acc02b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant41
+    second: {fileID: 2100000, guid: 785f3f317483d4a76ae1fb613d3e3d6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant42
+    second: {fileID: 2100000, guid: bb80b51af241d4656bf9e33dafc1f7cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant43
+    second: {fileID: 2100000, guid: a9ad04b013aea467784ea33bc040801a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant44
+    second: {fileID: 2100000, guid: bb66708894b484b7cafba8d65bdee1a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant45
+    second: {fileID: 2100000, guid: be564cbff22884fd4b9609b499baf440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant46
+    second: {fileID: 2100000, guid: 4b93c9b9d8bfb44cbb39ec6742470256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant5
+    second: {fileID: 2100000, guid: d84cb22ddf27a49d29220d250c3d719a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant6
+    second: {fileID: 2100000, guid: ab6c8750af399419d90b5aaa8fe38910, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant7
+    second: {fileID: 2100000, guid: 5a7a637585946431badbf0cca97cda9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant8
+    second: {fileID: 2100000, guid: 8ea075bcdc2d9401ea7addcef1ad12f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Citizen_s_Light_Plant9
+    second: {fileID: 2100000, guid: c9c84bb17269449de970c95524b48375, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Inside
+    second: {fileID: 2100000, guid: 9ebd2224c65654cd6844f70294749cf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 98d621b7ed86c46c99caad6157ae3e64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_Texture
+    second: {fileID: 2100000, guid: f2f8e8c4943454cbba139b36df7b165d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side_Texture_Flopped_and_Stretched
+    second: {fileID: 2100000, guid: 507cd4036922648b9b236e7abff9852c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steps
+    second: {fileID: 2100000, guid: 9576b64cf831c443f8c849d6c4c0375e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tower_Side
+    second: {fileID: 2100000, guid: 2fad6a74ce7fd4b968114e075699495f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,375 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified1_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified2_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified3_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified4_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified5_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified6_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified7_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified8_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified9_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified10_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified11_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified12_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified13_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified14_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified15_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified16_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified17_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified18_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified19_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified20_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified21_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified22_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified23_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified24_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified25_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified25_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified26_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified26_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified27_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified27_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified28_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified28_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified29_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified29_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified30_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified30_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified31_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified31_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified32_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified32_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified33_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified33_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified34_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified34_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified35_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified35_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified36_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified36_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified37_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified37_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified38_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified38_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified39_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified39_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified40_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified40_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified41_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified41_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified42_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified42_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified43_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified43_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified44_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified44_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified45_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified45_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified46_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified46_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified47_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified47_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified48_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified48_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified49_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified49_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified50_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified50_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified51_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified51_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified52_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified52_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified53_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified53_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified54_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified54_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified55_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified55_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified56_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified56_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified57_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified57_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified58_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified58_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified59_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified59_.png
+
+newmtl Gowanus_Fulton_Gas_Works_Plant_Modified60_
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Fulton Gas Works/Gowanus_Fulton_Gas_Works_Plant_Modified60_.png
+
