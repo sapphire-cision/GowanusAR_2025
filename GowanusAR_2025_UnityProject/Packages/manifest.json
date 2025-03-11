@@ -2,7 +2,6 @@
   "dependencies": {
     "com.cesium.unity": "1.15.3",
     "com.google.ar.core.arfoundation.extensions": "https://github.com/google-ar/arcore-unity-extensions.git",
-    "com.unity.2d.sprite": "1.0.0",
     "com.unity.burst": "1.8.18",
     "com.unity.collab-proxy": "2.6.0",
     "com.unity.device-simulator.devices": "1.0.0",
