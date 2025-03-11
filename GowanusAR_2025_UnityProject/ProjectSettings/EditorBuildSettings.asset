@@ -26,13 +26,23 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/_industry_v10.unity
     guid: 4b76818d6df254bb8844b8838596c526
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/_industry_v11.unity
     guid: 792d8cdb45495415a9c339d943481314
+  - enabled: 1
+    path: Assets/Scenes/Ship&Rem_v1.unity
+    guid: f3e3def5549b54c88ba33e8d783904ce
   m_configObjects:
-    AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: f440392bb5403499282399486a9eb4dd, type: 2}
-    AR Foundation RemoteARFoundationRemoteSessionRecordsData: {fileID: 11400000, guid: 7142c1949dc044d3cafa63c2db552799, type: 2}
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 48622fcf6c9844850b74030a680980e5, type: 2}
-    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 6c2da04d9dd714032bd878187b2c5c0d, type: 2}
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b97f2c9f953c04560bfff6c1ed739089, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4bf837a0e97934e3c9b7d7b57ecef583, type: 2}
+    AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: f440392bb5403499282399486a9eb4dd,
+      type: 2}
+    AR Foundation RemoteARFoundationRemoteSessionRecordsData: {fileID: 11400000, guid: 7142c1949dc044d3cafa63c2db552799,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 48622fcf6c9844850b74030a680980e5,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 6c2da04d9dd714032bd878187b2c5c0d,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b97f2c9f953c04560bfff6c1ed739089,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4bf837a0e97934e3c9b7d7b57ecef583,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
