@@ -1405,7 +1405,7 @@ MonoBehaviour:
   m_MatchTargetFields: 63
   m_Position: {x: 0, y: 0, z: 0}
   m_EulerAngles: {x: 0, y: 0, z: 0}
-  m_AvatarMask: {fileID: 0}
+  m_AvatarMask: {fileID: 31900000, guid: fe947ad02371d6c44b6e3126dff301d6, type: 2}
   m_ApplyAvatarMask: 1
   m_TrackOffset: 0
   m_InfiniteClip: {fileID: 0}
