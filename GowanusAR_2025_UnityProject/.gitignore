@@ -72,11 +72,10 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 ARFoundationRemoteInstaller
 
-GowanusAR_2025_UnityProject/ProjectSettings/ProjectVersion.txt
-/Users/lucaswozniak/Documents/Github/gowanusar_ashwincollab/GowanusAR_2025/GowanusAR_2025_UnityProject/ProjectSettings/ProjectVersion.txt
 *generated take*
 *editable take*
 *.blob
 GowanusAR_2025_UnityProject/ProjectSettings/Packages/com.unity.muse.common/Settings.json
 GowanusAR_2025_UnityProject/Packages/packages-lock.json
 GowanusAR_2025_UnityProject/Assets/Scenes/Ship&Rem_v1_Lucas.unity.meta
+GowanusAR_2025_UnityProject/ProjectSettings/ProjectVersion.txt
