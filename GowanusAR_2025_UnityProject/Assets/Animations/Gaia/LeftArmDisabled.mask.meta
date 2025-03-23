@@ -1,6 +1,16 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: fe947ad02371d6c44b6e3126dff301d6
 NativeFormatImporter:
+=======
+<<<<<<< Updated upstream:GowanusAR_2025_UnityProject/Assets/Animations/Gaia/LeftArmDisabled.mask.meta
+guid: fe947ad02371d6c44b6e3126dff301d6
+NativeFormatImporter:
+=======
+guid: d291d51a24a6e4418a836a18bee392bc
+DefaultImporter:
+>>>>>>> Stashed changes:GowanusAR_2025_UnityProject/Assets/Models/C4/Buildings/past_industrial_buildings/obj/Scranton Coal Breaker 3.mtl.meta
+>>>>>>> Stashed changes
   externalObjects: {}
   mainObjectFileID: 31900000
   userData: 
