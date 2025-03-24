@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c8e33b44606c4ff1a968d33f4f29f24, type: 3}
   m_Name: WhisperSettings
   m_EditorClassIdentifier: 
-  ModelPath: Whisper/ggml-base.bin
+  ModelPath: Whisper/ggml-small.en.bin
