@@ -605,7 +605,7 @@ PlayerSettings:
   enableCrashReportAPI: 0
   cameraUsageDescription: Use camera
   locationUsageDescription: Use location
-  microphoneUsageDescription: No Mic
+  microphoneUsageDescription: Use microphone
   bluetoothUsageDescription: 
   macOSTargetOSVersion: 11.0
   switchNMETAOverride: 
@@ -877,7 +877,8 @@ PlayerSettings:
     XboxOne: UNITY_POST_PROCESSING_STACK_V2
     iPhone: UNITY_XR_ARKIT_LOADER_ENABLED;ARCORE_EXTENSIONS_IOS_SUPPORT;GEOSPATIAL_IOS_SUPPORT;ARCORE_INTERNAL_GEOSPATIAL_CREATOR_ENABLED;MODULAR_3D_TEXT;VLB_URP;DREAMTECK_SPLINES;DISABLE_MICROPHONE
     tvOS: UNITY_POST_PROCESSING_STACK_V2
-  additionalCompilerArguments: {}
+  additionalCompilerArguments:
+    iPhone: []
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
