@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Industrial1Sub
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 4dd21d1f7c00f4445a508e0172a52ead, type: 3}
+  Text: I became the Gowanus Canal, an artery of burgeoning Brooklyn. In 1869, I
+    was dredged, straightened, and sided. Like the corset wearing women of the time,
+    my fluid outlines took on a more uniform shape. I was outfitted to serve the
+    factories lining my banks and the barges floating on my waters.
+  Timings:
+  - StartPosition: 0
+    EndPosition: 4.74
+    Name: I became the
+    Text: I became the Gowonas Canal, an artery of burgeoning Brooklyn.
+    Rectangle:
+      serializedVersion: 2
+      x: 30
+      y: 21
+      width: 143.0741
+      height: 126.59999
+    Color: {r: 0.83378553, g: 0.35735986, b: 0.61144185, a: 0.16078432}
+  - StartPosition: 4.74
+    EndPosition: 9.86
+    Name: In 1869, I
+    Text: In 1869, I was dredged, straightened, and sided.
+    Rectangle:
+      serializedVersion: 2
+      x: 173.0741
+      y: 21
+      width: 154.54416
+      height: 126.59999
+    Color: {r: 0.3197454, g: 0.41472265, b: 0.4262526, a: 0.16078432}
+  - StartPosition: 9.86
+    EndPosition: 16.38
+    Name: Like the corset
+    Text: Like the corset wearing women of the time, my fluid outlines took on a
+      more uniform shape.
+    Rectangle:
+      serializedVersion: 2
+      x: 327.61826
+      y: 21
+      width: 196.80234
+      height: 126.59999
+    Color: {r: 0.6438606, g: 0.74457586, b: 0.21230182, a: 0.16078432}
+  - StartPosition: 16.38
+    EndPosition: 22.3
+    Name: I was outfitted
+    Text: I was outfitted to serve the factories lining my banks and the barges floating
+      on my waters.
+    Rectangle:
+      serializedVersion: 2
+      x: 524.4206
+      y: 21
+      width: 178.69171
+      height: 126.59999
+    Color: {r: 0.6226473, g: 0.7629193, b: 0.298207, a: 0.16078432}
