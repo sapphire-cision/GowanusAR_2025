@@ -90,11 +90,11 @@ namespace AudioTextSynchronizer
 
 		private void Start()
 		{
-			if (isActiveAndEnabled && source.playOnAwake)
+			if (isActiveAndEnabled /*&& source.playOnAwake*/)
 			{
-				Play();
+				//Play();
 			}
-			SplitWords();
+			//SplitWords();
 		}
 
 		private void InitEffect()
@@ -117,7 +117,7 @@ namespace AudioTextSynchronizer
 				InitEffect();
 			}
 			isRunning = true;
-			source.Play();
+			//source.Play();
 		}
 		
 		public void Pause()
