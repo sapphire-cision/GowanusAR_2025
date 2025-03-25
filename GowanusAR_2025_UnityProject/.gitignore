@@ -71,6 +71,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 ARFoundationRemoteInstaller
+ARFoundationRemoteInstaller.meta
 
 .DS_Store
 *generated take*

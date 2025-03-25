@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 86707982b3c874a86a3fc6e1b7014df0
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: 15d1a8a739d2f40d8bb38d53af2dccf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 5bf0ad08745dd46c1a66522d07cb0df5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TWS_Balcony
+    second: {fileID: 2100000, guid: 75e2afe999233426f80b29c9ebdc06f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TWS_Large_Trapezoid_Wall
+    second: {fileID: 2100000, guid: 205b77ee9ffcc489e9ccdda312a94141, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TWS_Large_Wall_Cut_Down
+    second: {fileID: 2100000, guid: 003bc1339a1db436faa7c05107ef881f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TWS_Roof_Texture
+    second: {fileID: 2100000, guid: 925a6bf38ea7f49d48d2ec55fe30e31d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TWS_Scaffold_Scaled_2
+    second: {fileID: 2100000, guid: 489efe579546d4b65a5e5f5cd0dfcfe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TWS_Small_Roof
+    second: {fileID: 2100000, guid: 42425c8807c8947b1904af2de10e651b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TWS_Small_Surface
+    second: {fileID: 2100000, guid: 0d532fa503b354b29adfae41aa5fb3b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure
+    second: {fileID: 2100000, guid: 322492a3450e2439fa1b835a7cc3a524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure1
+    second: {fileID: 2100000, guid: 846fc85dea27c4099b246c9f46a3bb3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure10
+    second: {fileID: 2100000, guid: b6f1ddf86db874980897abd9825d48f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure11
+    second: {fileID: 2100000, guid: bb653f5962b4e4c6caeed9d11f749e27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure12
+    second: {fileID: 2100000, guid: e1227aaf6a7e54bb4a124efd4c0e748f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure13
+    second: {fileID: 2100000, guid: d83b6502f3076459fb3cf0cf98f221ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure14
+    second: {fileID: 2100000, guid: e0112b75d0baa4014b9bc7a5d60215c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure15
+    second: {fileID: 2100000, guid: a77baa2e48e3b445d88396eb74e1d212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure16
+    second: {fileID: 2100000, guid: 6ef3af906eee24c9aac750d010437648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure17
+    second: {fileID: 2100000, guid: 9743d0eeae613478f939df738b84659c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure18
+    second: {fileID: 2100000, guid: 11c672572304b4650b267981395db08b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure19
+    second: {fileID: 2100000, guid: 09fc7d03c421c4f17b6a28d2a7302ebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure2
+    second: {fileID: 2100000, guid: e1b60d34ae5e3420fbf415c75db63ef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure20
+    second: {fileID: 2100000, guid: 0b7239893e02741d69761f336f4a9d1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure21
+    second: {fileID: 2100000, guid: a03ab4a508bb14afbbe36b4de52a8bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure22
+    second: {fileID: 2100000, guid: c81dd9fe3f2624715b4fb108087f6b09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure23
+    second: {fileID: 2100000, guid: 9b967661acd8d4245aeb5034628507b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure24
+    second: {fileID: 2100000, guid: c95887e69240a4faba22d5acb762262c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure25
+    second: {fileID: 2100000, guid: 3da51e8d746a34cd19b70c0d4c075498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure26
+    second: {fileID: 2100000, guid: c0d2e85724c0740cfa54494c6caaddb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure27
+    second: {fileID: 2100000, guid: 137f243d2143f4a29b74db7950fd2c55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure3
+    second: {fileID: 2100000, guid: 65a30b8add044433f86f9e045ac8571a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure4
+    second: {fileID: 2100000, guid: eeb331cdaf3a34433b28a585177d8b77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure5
+    second: {fileID: 2100000, guid: 88e2b281a1c2e45e2a762c37b46aaef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure6
+    second: {fileID: 2100000, guid: 6a3ec1fd968c4433896c88f34a9a512b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure7
+    second: {fileID: 2100000, guid: 597436febc30e4e2c85e393a15e8ec81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure8
+    second: {fileID: 2100000, guid: e26268f8b593e41188387b90d4131eae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Wooden_Industrial_Structure9
+    second: {fileID: 2100000, guid: 41ad9d42ae3f549c3b8ba5755d38a49a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _TWS_Small_Wall_without_Balcony
+    second: {fileID: 2100000, guid: 95697810a0f55440da381af12f064447, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
