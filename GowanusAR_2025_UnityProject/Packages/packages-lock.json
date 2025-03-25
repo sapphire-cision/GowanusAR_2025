@@ -286,8 +286,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.sentis": {
-      "version": "2.1.1",
-      "depth": 1,
+      "version": "2.1.2",
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.burst": "1.8.17",
@@ -456,7 +456,7 @@
     },
     "com.unity.xr.core-utils": {
       "version": "2.4.0",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.xr": "1.0.0"
