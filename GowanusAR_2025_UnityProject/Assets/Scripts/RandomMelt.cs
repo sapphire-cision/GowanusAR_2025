@@ -24,6 +24,8 @@ public class RandomMelt : MonoBehaviour
 
     private float meltDur = 0f;
 
+    public bool beginMeltCycle = false;
+
 
     // Start is called before the first frame update
     void Start()
@@ -31,29 +33,46 @@ public class RandomMelt : MonoBehaviour
         meltTime = Random.Range(5f, 10f);
     }
 
+    public void BeginMeltCycle(){
+        beginMeltCycle = true;
+    }
+
+    public void EndMeltCycle(){
+        beginMeltCycle = false;
+    }
+
     // Update is called once per frame
     void Update()
     {
         time += Time.deltaTime;
 
-        if (time >= meltTime)
-        {
-            time = 0f;
-            meltTime = Random.Range(5f, 10f);
+        if(beginMeltCycle){
 
-            lerpMelt = true;
+            
 
-            //zibraLiquidSolverParameters.Gravity = new Vector3(0, Random.Range(-20,0), 0);
+            if (time >= meltTime)
+            {
+                time = 0f;
+                meltTime = Random.Range(5f, 10f);
 
-            forceField.DistanceOffset = Random.Range(-5, -2);
+                lerpMelt = true;
 
-            forceField.DistanceDecay = 0.7f;
+                //zibraLiquidSolverParameters.Gravity = new Vector3(0, Random.Range(-20,0), 0);
 
-            forceField.GetComponent<ZibraLiquidEmitter>().enabled = false;
+                forceField.DistanceOffset = Random.Range(-5, -2);
 
-            meltDur = Random.Range(1,1.5f);
+                forceField.DistanceDecay = 0.7f;
 
-            Debug.Log("melted");
+                forceField.GetComponent<ZibraLiquidEmitter>().enabled = false;
+
+                meltDur = Random.Range(1,1.5f);
+
+                Debug.Log("melted");
+
+            }
+
+
+            
 
         }
 
@@ -100,6 +119,7 @@ public class RandomMelt : MonoBehaviour
 
             
         }
+        
 
 
         /*if (lerpMelt && time < 0.5f)
@@ -125,4 +145,24 @@ public class RandomMelt : MonoBehaviour
             lerpMelt = false;
         }*/
     }
+
+    public void MeltFigure(){
+        time = 0f;
+        meltTime = Random.Range(5f, 10f);
+
+        lerpMelt = true;
+
+        //zibraLiquidSolverParameters.Gravity = new Vector3(0, Random.Range(-20,0), 0);
+
+        forceField.DistanceOffset = Random.Range(-5, -2);
+
+        forceField.DistanceDecay = 0.7f;
+
+        forceField.GetComponent<ZibraLiquidEmitter>().enabled = false;
+
+        meltDur = Random.Range(1,1.5f);
+
+        Debug.Log("melted");
+    }
+
 }
