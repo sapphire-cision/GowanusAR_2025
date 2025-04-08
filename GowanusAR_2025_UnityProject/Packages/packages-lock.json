@@ -8,7 +8,7 @@
       "url": "https://packages.unity.com"
     },
     "com.cesium.unity": {
-      "version": "1.15.4",
+      "version": "1.15.5",
       "depth": 0,
       "source": "registry",
       "dependencies": {
