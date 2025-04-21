@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: f177f1553e8a14dbe9989b2ad96aba34
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: 19081ffbd8ce147288d3a6d84e79963f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated
+    second: {fileID: 2100000, guid: e6b8ed36167ee4c238080188baa3e100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated1
+    second: {fileID: 2100000, guid: dd4db39e79fbd44f7b05a6ae9e7a1986, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated10
+    second: {fileID: 2100000, guid: 086dfb0965c5f409fb8b596bb181dd2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated11
+    second: {fileID: 2100000, guid: 3659a33939a444ab1ba1e919182bb0c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated12
+    second: {fileID: 2100000, guid: 06fe6c736aecb4510bd5d129147692d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated13
+    second: {fileID: 2100000, guid: 7215957b79204481b9dcbd5324bc3fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated14
+    second: {fileID: 2100000, guid: f6b35515f7a0d468b9fb7c714b5c95d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated15
+    second: {fileID: 2100000, guid: 59bbd505c09fe46dc9735300a243adc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated16
+    second: {fileID: 2100000, guid: d4ca3271bce99435cb40db6d5d028604, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated17
+    second: {fileID: 2100000, guid: e5a4c9b40e63249b7a46eb82e2897337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated18
+    second: {fileID: 2100000, guid: dad1c37f40c674756a8b5e78d0678133, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated19
+    second: {fileID: 2100000, guid: 6bf458a7b3f7d4642a0172d7311218f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated2
+    second: {fileID: 2100000, guid: b273942b5168b497a94e7528d300c5c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated20
+    second: {fileID: 2100000, guid: 6e3c31ce8168a46ba97f9b235acec233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated21
+    second: {fileID: 2100000, guid: a030b91e64cf242d180af6624b7c0a1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated22
+    second: {fileID: 2100000, guid: 80c7fe1df6e654ece8263d3009712fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated23
+    second: {fileID: 2100000, guid: 50ba04a2a57c74c47a4a51d7248ff70f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated24
+    second: {fileID: 2100000, guid: d42b862fbda86492886fa1cb9fe9d9a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated25
+    second: {fileID: 2100000, guid: 97c4c0683d5ea4a15b7259830d94d959, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated26
+    second: {fileID: 2100000, guid: 577287a5495064554a1e518fe6dc1399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated27
+    second: {fileID: 2100000, guid: 4ce69659ba269440d9c5e6327fbd96d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated28
+    second: {fileID: 2100000, guid: 1b24239412a57487dbe55d6fc3fe59fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated29
+    second: {fileID: 2100000, guid: 254625ab945f94cd19f838fcf5f2e3d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated3
+    second: {fileID: 2100000, guid: 8b2e79d520e7b4e9abf235198798db56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated30
+    second: {fileID: 2100000, guid: b28b3e75469c54c5e95db41aeba27127, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated31
+    second: {fileID: 2100000, guid: ed32b45e11c7c4e56bca35e5ceb54ed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated32
+    second: {fileID: 2100000, guid: 4a76a4a103a9d4d6c835a1e8df73a245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated33
+    second: {fileID: 2100000, guid: 922cf1025656245318ea95379ed43215, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated34
+    second: {fileID: 2100000, guid: 5053e80b6aa0246e595aa5dd87fd7c13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated35
+    second: {fileID: 2100000, guid: 3c099555e27474c0cb829f1be75e562d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated36
+    second: {fileID: 2100000, guid: 91e8c52c56fa7484aab699a84419a2cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated4
+    second: {fileID: 2100000, guid: d75a0dc7fc9d741ce8c4d2bc4b3a4b5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated5
+    second: {fileID: 2100000, guid: b7ede1580f7a34f09ad6ff9c07cb74e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated6
+    second: {fileID: 2100000, guid: 6a9cac2b785834c078cb3990bd502102, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated7
+    second: {fileID: 2100000, guid: d283cc36685c54c66b3d0e1b4c3a3a33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated8
+    second: {fileID: 2100000, guid: 76b6a04888b7f45d7b5b489efc0b13e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Chair_Flipped_2_Rotated9
+    second: {fileID: 2100000, guid: 305b8b51e32ee468ea9bacf02e920e6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: d4cbaa5cf49bb4d6da73d294000c13ef, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

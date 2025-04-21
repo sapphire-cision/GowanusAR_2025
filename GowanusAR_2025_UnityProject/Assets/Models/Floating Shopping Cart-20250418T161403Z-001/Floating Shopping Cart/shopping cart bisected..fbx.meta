@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 6d887021700964906a6a916ef4d229bd
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: ad408737bf3844f738798fdf19a565bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: c18dd4562d3b0408e8523d38f96c9052, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated
+    second: {fileID: 2100000, guid: c2474d81871444b1cb88cad03441982c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated1
+    second: {fileID: 2100000, guid: c77da0bd0b47446eda766493b359d247, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated10
+    second: {fileID: 2100000, guid: 831cbff5114864c8685a852170ec1cb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated11
+    second: {fileID: 2100000, guid: 06de47001cf714eda9eaa93ae38da3fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated12
+    second: {fileID: 2100000, guid: e004573add6074a71a5ed6567d0b4cc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated13
+    second: {fileID: 2100000, guid: 840f407ce33d849b5b3d5481bae2a004, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated14
+    second: {fileID: 2100000, guid: d0a715dae64594ada8c05dbabb22bfa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated15
+    second: {fileID: 2100000, guid: 38e63b6726223442da1019818c95a3a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated16
+    second: {fileID: 2100000, guid: 99771f9f0052c4e6fa913e1244b9f3be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated17
+    second: {fileID: 2100000, guid: 1be016a7e3ca1495199933bfbc95e02d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated18
+    second: {fileID: 2100000, guid: 61bf00917fef444d883686e951da17dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated19
+    second: {fileID: 2100000, guid: 5cac57d6c47df4ce6aeb14b1f8f63e15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated2
+    second: {fileID: 2100000, guid: 150181af2dcd84c338282448b61499f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated20
+    second: {fileID: 2100000, guid: 4fffbefdcb51e49489e0cfa8c7054d7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated21
+    second: {fileID: 2100000, guid: 03f4660b7519c4bb697f9df47e7ad3cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated22
+    second: {fileID: 2100000, guid: 67a48d32eee6943c8b1cb649108f248a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated23
+    second: {fileID: 2100000, guid: 3dad9f89aaf434e47838ecae2e848d06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated24
+    second: {fileID: 2100000, guid: 00a729c6dcfd6476ba61b87f01c86416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated25
+    second: {fileID: 2100000, guid: 1c6ba6ea373d747c58d8041fc2015ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated26
+    second: {fileID: 2100000, guid: 3b562597d9590461bb88c9387baa1ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated27
+    second: {fileID: 2100000, guid: f07b6d63abd9a488c939c0d3b0281e37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated28
+    second: {fileID: 2100000, guid: 586afca7c6f0b46a5a391fae3130bd83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated29
+    second: {fileID: 2100000, guid: 68a72914bab8f4fdb966fa01d146374e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated3
+    second: {fileID: 2100000, guid: a841590ac48b143fb97058ef3966db2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated30
+    second: {fileID: 2100000, guid: f960a02bb20554daf8e3b997fa599b1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated31
+    second: {fileID: 2100000, guid: 485f54d3a52054be2855daaa0da9dad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated32
+    second: {fileID: 2100000, guid: 3aa12b9798f8044ffb05689860cf5792, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated33
+    second: {fileID: 2100000, guid: 6d3aa64b965d64925a19fb2e3d8ff0d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated34
+    second: {fileID: 2100000, guid: 9cd33505c234549259b96f886b5134bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated4
+    second: {fileID: 2100000, guid: e00118d14060c47f29ac60321a77aafa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated5
+    second: {fileID: 2100000, guid: aa66de8c370e040afa29d21e48ebced2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated6
+    second: {fileID: 2100000, guid: 6e4e53217023e4e5780fc82c1638707c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated7
+    second: {fileID: 2100000, guid: 8cd0f73487467443789af8f3e5610807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated8
+    second: {fileID: 2100000, guid: d04af29ac33994b0c8f999814a2f3149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shopping_Cart_Icon_Rotated9
+    second: {fileID: 2100000, guid: 2164ec059d2b1455a96f6b45c3cdb050, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
