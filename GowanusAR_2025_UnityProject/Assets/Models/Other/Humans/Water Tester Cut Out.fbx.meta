@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 22dad124b2ed044bc84b32b696ec230a
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: fcfaf424bc30e48eea54e01894aa499d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: b61cb33656e2b4b1b9d0b3441c893a0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out
+    second: {fileID: 2100000, guid: e593f70f577b746f5ba84c70dc222662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out1
+    second: {fileID: 2100000, guid: c6ac7896177c84f14931c53338a0c4c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out10
+    second: {fileID: 2100000, guid: ae35f883fef964a9abeaa81831c5afa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out11
+    second: {fileID: 2100000, guid: 21e4ccc63fdb148529356cb34c2ebe29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out12
+    second: {fileID: 2100000, guid: 99460e862a00e43c6ace60e39d1b0135, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out13
+    second: {fileID: 2100000, guid: aa5017a5fb3c04e3880600b47001a298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out14
+    second: {fileID: 2100000, guid: 2e9e1e7d510f74a4195ab0f616adf0cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out15
+    second: {fileID: 2100000, guid: 4ff8039ca2c7e4dba90230dfaab0f8e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out16
+    second: {fileID: 2100000, guid: dbe38a1ed735b4baabe4bdd7b8a1f2fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out17
+    second: {fileID: 2100000, guid: 83316c8f8d35545d4a8f35be8024de02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out18
+    second: {fileID: 2100000, guid: 919f77d5e08444fdd94cf202e30896e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out19
+    second: {fileID: 2100000, guid: f56670a5c0b4f4ac2befeb3fdb34203b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out2
+    second: {fileID: 2100000, guid: 48c903a7c2a05493e9d70b320f9e473d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out20
+    second: {fileID: 2100000, guid: a6b970c7c47d54d8dac3c2cfad1b4a24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out21
+    second: {fileID: 2100000, guid: 718cda67bf4ff4632b892100a5967e2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out22
+    second: {fileID: 2100000, guid: 56735dd64b0634e30af0973568d9db65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out23
+    second: {fileID: 2100000, guid: 307e7ea29f0164068a088a6faa91b1d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out24
+    second: {fileID: 2100000, guid: 692a5d6751c7642ec8b64099ce2be42b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out25
+    second: {fileID: 2100000, guid: 68b99e0646b57461487c62ff82585644, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out26
+    second: {fileID: 2100000, guid: 558c2cb9d6eef4e24ab181be95c39914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out27
+    second: {fileID: 2100000, guid: 73c7422269bb1492dacbb1b4fe78d299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out28
+    second: {fileID: 2100000, guid: e55bc6f5f7bbf473ab06baf8e3880dd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out29
+    second: {fileID: 2100000, guid: 9a8d02b3fc37246fb815d4fd65c03deb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out3
+    second: {fileID: 2100000, guid: 71f64b3dde6fe40d893b8cdc3d4c77d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out30
+    second: {fileID: 2100000, guid: 277a7c9c49dc64acca0e08d1f81c115a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out31
+    second: {fileID: 2100000, guid: adab78f58e092450aa024f252ea4311c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out32
+    second: {fileID: 2100000, guid: 84a45f3475f844501b7e8ae809fefb34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out33
+    second: {fileID: 2100000, guid: 6990c2ed4aa684ecfbb5c9356c47c441, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out34
+    second: {fileID: 2100000, guid: 417c5bddd24754c23a171d63ec20e4c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out35
+    second: {fileID: 2100000, guid: 825485cf9eff1412d9549c2cbe1b03dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out36
+    second: {fileID: 2100000, guid: 8af5c8a956964492990bc019a9ef9fc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out37
+    second: {fileID: 2100000, guid: 79291f2621d2447168bba289f3c99d13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out38
+    second: {fileID: 2100000, guid: 228c9e51e5c2e4ad094fffceefdf4e95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out39
+    second: {fileID: 2100000, guid: 14c9a4ff08bf448f0ab4da9f52dd0c1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out4
+    second: {fileID: 2100000, guid: 1e4a20fe47f374e6fa96e6087a2da4dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out40
+    second: {fileID: 2100000, guid: 957669116b91f47459b13f792694e031, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out41
+    second: {fileID: 2100000, guid: 63e6b3a555e6f42aebe64ac2ba32530c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out42
+    second: {fileID: 2100000, guid: d34b705bbf922490c8628413f45134cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out43
+    second: {fileID: 2100000, guid: 7023dbdbdd5594249899154351d8fcbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out44
+    second: {fileID: 2100000, guid: 2a98b94872aa64a049c39e4384b7f5c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out45
+    second: {fileID: 2100000, guid: cf4de08f5ee5a4f27b9b3007ea2ff845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out46
+    second: {fileID: 2100000, guid: b2c301cffcebe4b0b919fba8f6f003df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out47
+    second: {fileID: 2100000, guid: eb7c61085a5c242f08c39fb5a2a07728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out48
+    second: {fileID: 2100000, guid: f603c184fe03341879fbd2bead017030, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out49
+    second: {fileID: 2100000, guid: 837f1ebb7ca254f9bb43d4b4ffb2e86d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out5
+    second: {fileID: 2100000, guid: abe61ae139168490d91eafd181d91ebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out50
+    second: {fileID: 2100000, guid: 94f420c4d11c543b38ab536cb95e1173, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out51
+    second: {fileID: 2100000, guid: 2909bf8e78af84342b674754acb94199, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out6
+    second: {fileID: 2100000, guid: ae2f312912bf843a68d89e25a5b64272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out7
+    second: {fileID: 2100000, guid: e790c1b9bd77b47f8b311b66a8ce8227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out8
+    second: {fileID: 2100000, guid: 4a4e4c7c9c194405c83ddc48a593e50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Tester_Cut_Out9
+    second: {fileID: 2100000, guid: 4dd3077f865e049298ccaa9954f6118b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
