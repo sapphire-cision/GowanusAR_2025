@@ -10,7 +10,7 @@ public class TimelineManager : MonoBehaviour
     //public PlayableDirector[] timelines;
     public GameObject[] timelines;
 
-    private int timelinesCount = -1;
+    private int timelinesCount = 0;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -31,12 +31,12 @@ public class TimelineManager : MonoBehaviour
         nextButton.SetActive(false);
 
         // Temp fix while using prev timeline activation technique
-        if(timelinesCount == 0)
-            timelinesCount = 1;
+        // if(timelinesCount == 0) 
+        //   timelinesCount = 1;
 
-        if(timelinesCount != -1)
-            timelines[timelinesCount].SetActive(false);
-        
+        //if(timelinesCount != -1)
+        //  timelines[timelinesCount].SetActive(false);
+        timelines[timelinesCount].SetActive(false);
 
 
         timelines[timelinesCount+1].SetActive(true);
