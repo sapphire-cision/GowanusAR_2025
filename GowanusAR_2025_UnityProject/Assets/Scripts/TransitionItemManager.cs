@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Playables;
 
 public class TransitionItemManager : MonoBehaviour
 {
@@ -38,6 +39,10 @@ public class TransitionItemManager : MonoBehaviour
 
     private int itemCount = 0;
 
+    public Animator trackedExcavator;
+
+    public PlayableDirector timeline2;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -69,8 +74,12 @@ public class TransitionItemManager : MonoBehaviour
     public void TransitionItem(int inputItemCount){
 
         itemCount = inputItemCount;
-        
 
+        trackedExcavator.enabled = false;
+        timeline2.Pause();
+        transitionItems[itemCount].transform.parent = itemParentScale;
+        trackedExcavator.enabled = true;
+        timeline2.Resume();
         // Calculate the journey length.
         journeyLength = Vector3.Distance(startMarker.position, endMarker.position);
 
