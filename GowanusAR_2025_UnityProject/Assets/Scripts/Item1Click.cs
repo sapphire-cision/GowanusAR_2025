@@ -14,6 +14,8 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
 
     public IndustryManager indusManager;
 
+    public TimelineManager tManager;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -40,7 +42,7 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
 
         //phase1.SetActive(false);
 
-        arm1.SetActive(false);
+        /*arm1.SetActive(false);
         arm2.SetActive(true);
 
         timeline1.SetActive(false);
@@ -51,7 +53,9 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
 
         //indusManager.count = 1;
 
-        indusManager.NextUp();
+        indusManager.NextUp();*/
+
+        tManager.NextMiniscene();
 
 
     }

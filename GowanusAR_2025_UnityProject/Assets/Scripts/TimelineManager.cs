@@ -21,7 +21,10 @@ public class TimelineManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.X))
+        {
+            NextMiniscene();
+        }
     }
 
     public void NextMiniscene(){
@@ -36,6 +39,7 @@ public class TimelineManager : MonoBehaviour
 
         //if(timelinesCount != -1)
         //  timelines[timelinesCount].SetActive(false);
+        timelines[timelinesCount].GetComponent<PlayableDirector>().Stop();
         timelines[timelinesCount].SetActive(false);
 
 

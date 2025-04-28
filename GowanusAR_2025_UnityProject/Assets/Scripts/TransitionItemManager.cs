@@ -6,13 +6,16 @@ public class TransitionItemManager : MonoBehaviour
 
     // Transforms to act as start and end markers for the journey.
     public Transform startMarker;
+
+    private Vector3 startPos;
+
     public Transform endMarker;
 
     private Quaternion startRotation;
     private Quaternion endRotation;
 
     // Movement speed in units per second.
-    public float speed = 2.0f;
+    private float speed = 5.0f;
 
     // Time when the movement started.
     private float startTime;
@@ -36,6 +39,8 @@ public class TransitionItemManager : MonoBehaviour
     public Transform itemParentScale;
 
     public GameObject[] transitionItems;
+
+    public GameObject[] transitionPrefabs;
 
     private int itemCount = 0;
 
@@ -64,7 +69,7 @@ public class TransitionItemManager : MonoBehaviour
             //transitionItems[itemCount].transform.localScale = Vector3.Lerp(startScale, targetScale, fractionOfJourney);
 
             // Set our position as a fraction of the distance between the markers.
-            transitionItems[itemCount].transform.position = Vector3.Lerp(startMarker.position, endMarker.position, fractionOfJourney);
+            transitionItems[itemCount].transform.position = Vector3.Lerp(startPos, endMarker.position, fractionOfJourney);
             Debug.Log(transitionItems[itemCount].transform.position);
 
         }
@@ -75,13 +80,34 @@ public class TransitionItemManager : MonoBehaviour
 
         itemCount = inputItemCount;
 
-        trackedExcavator.enabled = false;
-        timeline2.Pause();
+        startPos = startMarker.position;
+
+        /*
+        
         transitionItems[itemCount].transform.parent = itemParentScale;
-        trackedExcavator.enabled = true;
-        timeline2.Resume();
+        
+
+        */
+        
+        //trackedExcavator.enabled = false;
+        //timeline2.Pause();
+
+        //GameObject clone = Instantiate(transitionPrefabs[itemCount]);
+        //clone.transform.position = transitionItems[itemCount].transform.position;
+        
+
+        //clone.transform.SetParent(null, true);
+        //transitionItems[itemCount].SetActive(false);
+        //transitionItems[itemCount] = clone;
+
+        transitionItems[itemCount].transform.SetParent(itemParentScale, true);
+        
+
+        //trackedExcavator.enabled = true;
+        //timeline2.Resume();
+
         // Calculate the journey length.
-        journeyLength = Vector3.Distance(startMarker.position, endMarker.position);
+        journeyLength = Vector3.Distance(startPos, endMarker.position);
 
         startTime = Time.time;
 
