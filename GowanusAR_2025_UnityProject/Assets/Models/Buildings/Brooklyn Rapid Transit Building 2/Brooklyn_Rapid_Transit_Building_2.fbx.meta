@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 19d4c8e21339c472e809d92d196552fe
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2
+    second: {fileID: 2100000, guid: e613cfa45c8ca4f65b3f9f266435bc09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_1
+    second: {fileID: 2100000, guid: 77b30dd06c2d3412088c39689d093fd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_10
+    second: {fileID: 2100000, guid: 5f4e116984ee54babbe1e3f92b3c089a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_11
+    second: {fileID: 2100000, guid: 4b4efae0a783a4b80846625c29c3041a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_12
+    second: {fileID: 2100000, guid: 201636b44f7fe4ef59bbd73b383a85e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_13
+    second: {fileID: 2100000, guid: 41cfb29d6e6774bb789917e404b31c88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_14
+    second: {fileID: 2100000, guid: bf439f6ae2ded4b669a0240d11693f40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_15
+    second: {fileID: 2100000, guid: 00e59c2e362ab4e85bae6904e097e93e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_16
+    second: {fileID: 2100000, guid: 1fffa65bfe01d4fc699382b87861a90d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_17
+    second: {fileID: 2100000, guid: bca616508d6f24ac3a05f5e697b0fb27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_18
+    second: {fileID: 2100000, guid: e6db20b9a44544bc78fe6a794989a52e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_19
+    second: {fileID: 2100000, guid: f94b3e30e49f94e9fb42d92ac8669d4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_2
+    second: {fileID: 2100000, guid: fa0bcd1f3c1b14b9095ea6705ea489f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_20
+    second: {fileID: 2100000, guid: 9683015b259d54c9ca46cec3a55744d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_21
+    second: {fileID: 2100000, guid: f292f63ce09314c70a78b195bce7f177, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_22
+    second: {fileID: 2100000, guid: b41b6e72ef5454faf92a71ca1ba2d794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_23
+    second: {fileID: 2100000, guid: 656af0891cc1344c08c408bf5da2ad0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_24
+    second: {fileID: 2100000, guid: e13b7410135154860b0afda78a4b72f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_25
+    second: {fileID: 2100000, guid: 3650b2ccacdaf4dbb87e7db326ae1edd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_26
+    second: {fileID: 2100000, guid: c2eab93f9846d417f910e7b630aeb35d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_27
+    second: {fileID: 2100000, guid: 7b0315344e6fe4edcaa79900b22a9f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_3
+    second: {fileID: 2100000, guid: 3e74730e52e3e4492af7ee42db3dfaf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_4
+    second: {fileID: 2100000, guid: c198eed8abc104f48bcb687dcf2cd31b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_5
+    second: {fileID: 2100000, guid: 974bfd128707049a996c21ee65357459, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_6
+    second: {fileID: 2100000, guid: c1c7b898ecc9a4d9ca7ffda06ef9ecf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_7
+    second: {fileID: 2100000, guid: aef1fe6faca234223b239ae17947b0da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_8
+    second: {fileID: 2100000, guid: 1f855d38fd1184e06965f038d471ece0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRT_RR_Building_Cropped_Doctored2_9
+    second: {fileID: 2100000, guid: f8fde65c83b754c109da2d4a4d4c0b75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: 21775a40ad09443c1824471eaf86627a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn_Rapid_Transit_Blend_Cropped
+    second: {fileID: 2100000, guid: d04f14c03d55544528cf4a976240f149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn_Rapid_Transit_Blend_Cropped1
+    second: {fileID: 2100000, guid: 72d235f2b32324a9e946304fbbb158c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brooklyn_Rapid_Transit_Building_Corner
+    second: {fileID: 2100000, guid: 9831833fb97704e1e92dd13081b358a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: e4e09e8396d3d4c79a8adb28816d960e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
