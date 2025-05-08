@@ -4,3 +4,4 @@
 *.prefab filter=lfs diff=lfs merge=lfs -text
 ggml-small.en.bin filter=lfs diff=lfs merge=lfs -text
 *.blend filter=lfs diff=lfs merge=lfs -text
+"Miniscene 8 Film No Audio.mp4" filter=lfs diff=lfs merge=lfs -text

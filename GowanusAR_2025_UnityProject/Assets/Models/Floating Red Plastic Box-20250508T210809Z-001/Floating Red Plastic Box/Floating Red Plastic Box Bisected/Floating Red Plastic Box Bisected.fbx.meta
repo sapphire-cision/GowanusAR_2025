@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 3ae0b3ecd7265431aad4287abc5a9b98
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: f5a470b564c3b4b51a09b469d8120d84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped
+    second: {fileID: 2100000, guid: 3b52b3d4df69542998a81607dc47e0d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped1
+    second: {fileID: 2100000, guid: ad9d7bb7da52c480c975c36943d32b98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped10
+    second: {fileID: 2100000, guid: 86a6139392bbf499d80ee5e5f89113f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped11
+    second: {fileID: 2100000, guid: a7d80e6b8e3a44fcba270deaa2a5ad85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped12
+    second: {fileID: 2100000, guid: f5ae4824fe31d41e998fb6b1160edcd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped13
+    second: {fileID: 2100000, guid: 622f67a3e7da749e3819c95a912936e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped14
+    second: {fileID: 2100000, guid: 1df4b58a6989c43928c1ca2358041219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped15
+    second: {fileID: 2100000, guid: d68f948a070be4848962cc7a564aedde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped16
+    second: {fileID: 2100000, guid: db192427e9375491eace6857481cc3ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped17
+    second: {fileID: 2100000, guid: a1f2f2b63157842248563cb130facf9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped18
+    second: {fileID: 2100000, guid: 715cbfd94d81b4b1480eb5b35c46e2fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped19
+    second: {fileID: 2100000, guid: 12ee97f40b686428d981c4012a6b05b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped2
+    second: {fileID: 2100000, guid: 585eb43efe66642d18ac3587aaa4ffd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped20
+    second: {fileID: 2100000, guid: a3a72b9bac4e749b0bc00263621eee04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped21
+    second: {fileID: 2100000, guid: ef11c3b74f3c147a8b291309a1a96ee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped22
+    second: {fileID: 2100000, guid: 3bbc9f5ce861848f797bd7696794287e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped23
+    second: {fileID: 2100000, guid: 8425ea0ced9dc49f08df8e49d2078e07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped24
+    second: {fileID: 2100000, guid: 7e384f1556e6648369a115ccf0d2469d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped25
+    second: {fileID: 2100000, guid: 3a55c5ef5fc59451c8b38e2dc683613e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped26
+    second: {fileID: 2100000, guid: 4058b5f13902046128c4b8e2c2d73769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped27
+    second: {fileID: 2100000, guid: 215dede3b4611457eada82b5c7f45871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped28
+    second: {fileID: 2100000, guid: affa813f80310481c95221fc80a4658e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped29
+    second: {fileID: 2100000, guid: c3329553acdb5477d97e4a9a4d12d3e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped3
+    second: {fileID: 2100000, guid: 5f756fcc72d3041aabecef0d314988d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped4
+    second: {fileID: 2100000, guid: cdc40c841a10e42cda12de3b643b4351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped5
+    second: {fileID: 2100000, guid: ad58d149602884c2b82da8fdd8f8260f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped6
+    second: {fileID: 2100000, guid: bbf7ca437f85247528cd989785922079, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped7
+    second: {fileID: 2100000, guid: b4c3143ef4165455991d63dd185e7957, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped8
+    second: {fileID: 2100000, guid: 9dd24145b660546b8b2d46c8d9e2b4e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Fipped9
+    second: {fileID: 2100000, guid: 8ee981561582e45acb72e043c9fdb47d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floating_Red_Plastic_Box_Texture_File
+    second: {fileID: 2100000, guid: 6848deb83a39f438abc6b5304e0925fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 3b1abb21dd80f4698a98b23c61cf207d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
