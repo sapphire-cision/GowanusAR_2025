@@ -29,7 +29,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/_industry_v11.unity
     guid: 792d8cdb45495415a9c339d943481314
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Ship&Rem_v1.unity
     guid: f3e3def5549b54c88ba33e8d783904ce
   - enabled: 0
