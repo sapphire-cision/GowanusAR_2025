@@ -1,6 +1,8 @@
 using UnityEngine;
 
 using UnityEngine.EventSystems;
+using UnityEngine.Playables;
+using VLB;
 
 public class Item1Click : MonoBehaviour, IPointerClickHandler
 {
@@ -15,6 +17,10 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
     public IndustryManager indusManager;
 
     public TimelineManager tManager;
+
+    public PlayableDirector onboardingTimeline;
+
+    public GameObject onboarding;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -40,23 +46,36 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
 
         this.gameObject.SetActive(false);
 
-        //phase1.SetActive(false);
+        if(this.gameObject.tag == "1"){
 
-        /*arm1.SetActive(false);
-        arm2.SetActive(true);
+            timeline1.SetActive(true);
+            onboarding.SetActive(false);
+            timeline1.GetComponent<PlayableDirector>().Play();
+            
+            
+        }
+        else if(this.gameObject.tag == "0"){
 
-        timeline1.SetActive(false);
-        timeline2.SetActive(true);
+            onboardingTimeline.Play();
+            
+        }else{
 
-        indusManager.time = 0f;
-        indusManager.waitCoalDrop = true;
+            //phase1.SetActive(false);
 
-        //indusManager.count = 1;
+            /*arm1.SetActive(false);
+            arm2.SetActive(true);
 
-        indusManager.NextUp();*/
+            timeline1.SetActive(false);
+            timeline2.SetActive(true);
 
-        tManager.NextMiniscene();
+            indusManager.time = 0f;
+            indusManager.waitCoalDrop = true;
 
+            //indusManager.count = 1;
 
+            indusManager.NextUp();*/
+
+            tManager.NextMiniscene();
+        }
     }
 }

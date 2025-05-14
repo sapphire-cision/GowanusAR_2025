@@ -23,7 +23,7 @@ public class AnchorDistanceDisplay : MonoBehaviour
 
             if(distancePanel.activeSelf)
         {
-            if(distance < 40f){
+            if(distance < 50f){
                 distancePanel.SetActive(false);
                 onboardingTimeline.SetActive(true);
                 onboardingAssets.SetActive(true);
