@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: 1869-1930
   m_Shader: {fileID: 4800000, guid: 650dd9526735d5b46b79224bc6e94025, type: 3}
-  m_Parent: {fileID: 2100000, guid: 8ffdeb1a9cf86be4ebe9971a2f3cc454, type: 2}
+  m_Parent: {fileID: 2100000, guid: a68f82d5b39ffab4db8ac6b1a333b0e1, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _SURFACE_TYPE_TRANSPARENT
