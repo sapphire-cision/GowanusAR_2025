@@ -17,8 +17,16 @@ public class AnchorDistanceDisplay : MonoBehaviour
         if (arCameraTransform != null && anchorTransform != null)
         {
             float distance = Vector3.Distance(arCameraTransform.position, anchorTransform.position);
-            distanceText.text = $"{distance:F2} meters";
 
+
+            if (distance < 10000)
+            {
+                distanceText.text = $"{distance:F2} meters";
+            }
+            else
+            {
+                distanceText.text = $"Outside of city limits; go to Gowanus, Brooklyn!";
+            }
             Debug.Log($"Distance from AR Camera to Anchor: {distance:F2} meters");
 
             if(distancePanel.activeSelf)

@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: sdruryIndustry
-  productName: GowanusAR
+  companyName: sdrury
+  productName: GowanusARIndustryScene
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -166,7 +166,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.sdruryIndustry.GowanusAR
     Standalone: com.sdruryIndustry.GowanusAR
-    iPhone: com.sdruryIndustry.GowanusAR
+    iPhone: com.sdrury.GowanusARIndustryScene
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -293,7 +293,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: d20bf472aa55a484783d0cf12dcd9515, type: 3}
+      m_Icon: {fileID: 2800000, guid: feea4bc6a350349b8a0a2fc724990199, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -603,9 +603,11 @@ PlayerSettings:
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
-  cameraUsageDescription: Use camera
-  locationUsageDescription: Use location
-  microphoneUsageDescription: Use microphone
+  cameraUsageDescription: Camera access is required to display AR visuals over your
+    surroundings. No video or images are recorded or stored.
+  locationUsageDescription: Location is used to unlock the AR experience when you're
+    on-site in Brooklyn. Your location is never stored or shared.
+  microphoneUsageDescription: 
   bluetoothUsageDescription: 
   macOSTargetOSVersion: 11.0
   switchNMETAOverride: 
