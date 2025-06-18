@@ -607,7 +607,7 @@ PlayerSettings:
     surroundings. No video or images are recorded or stored.
   locationUsageDescription: Location is used to unlock the AR experience when you're
     on-site in Brooklyn. Your location is never stored or shared.
-  microphoneUsageDescription: 
+  microphoneUsageDescription: Microphone will not be used
   bluetoothUsageDescription: 
   macOSTargetOSVersion: 11.0
   switchNMETAOverride: 
