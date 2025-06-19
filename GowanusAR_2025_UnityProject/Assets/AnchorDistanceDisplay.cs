@@ -12,6 +12,9 @@ public class AnchorDistanceDisplay : MonoBehaviour
     public GameObject onboardingTimeline;
     public GameObject onboardingAssets;
 
+    //public GameObject startButton;
+    public GameObject audioText;
+
     void Update()
     {
         if (arCameraTransform != null && anchorTransform != null)
@@ -31,12 +34,16 @@ public class AnchorDistanceDisplay : MonoBehaviour
 
             if(distancePanel.activeSelf)
         {
-            if(distance < 50f){
-                distancePanel.SetActive(false);
-                onboardingTimeline.SetActive(true);
-                onboardingAssets.SetActive(true);
+                if (distance < 50f)
+                {
+                    distancePanel.SetActive(false);
+                    //onboardingTimeline.SetActive(true);
+                    onboardingAssets.SetActive(true);
 
-                this.gameObject.SetActive(false);
+                    this.gameObject.SetActive(false);
+
+                    //startButton.SetActive(true);
+                    audioText.SetActive(true);
             }
         }
         }

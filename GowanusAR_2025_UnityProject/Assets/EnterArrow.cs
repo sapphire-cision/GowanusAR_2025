@@ -11,6 +11,8 @@ public class EnterArrow : MonoBehaviour
 
     public GameObject onboardingTimeline;
 
+    public GameObject nextButton;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -29,6 +31,7 @@ public class EnterArrow : MonoBehaviour
         onboardingTimeline.SetActive(false);
         arrows.SetActive(false);
         startToken.SetActive(true);
+        nextButton.SetActive(true);
         onboardingFigure.SetActive(false);
         tidemill.SetActive(false);
 

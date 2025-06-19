@@ -15,7 +15,7 @@ public class TimelineManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -27,7 +27,8 @@ public class TimelineManager : MonoBehaviour
         }
     }
 
-    public void NextMiniscene(){
+    public void NextMiniscene()
+    {
 
         Debug.Log("New next!");
 
@@ -43,8 +44,24 @@ public class TimelineManager : MonoBehaviour
         timelines[timelinesCount].SetActive(false);
 
 
-        timelines[timelinesCount+1].SetActive(true);
+        timelines[timelinesCount + 1].SetActive(true);
 
         timelinesCount++;
+
+        Item1Click[] activeComponents = GameObject.FindObjectsByType<Item1Click>(FindObjectsSortMode.None);
+
+        foreach (var comp in activeComponents)
+        {
+            if (comp.gameObject.activeInHierarchy)
+            {
+                Debug.Log("Active GameObject with MyComponent: " + comp.gameObject.name);
+                comp.gameObject.SetActive(false);
+            }
+        }
+    }
+
+    public void QuitApp()
+    {
+        Application.Quit();
     }
 }
