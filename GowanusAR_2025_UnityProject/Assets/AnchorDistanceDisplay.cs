@@ -9,7 +9,7 @@ public class AnchorDistanceDisplay : MonoBehaviour
 
     public GameObject distancePanel;
 
-    public GameObject onboardingTimeline;
+    //public GameObject onboardingTimeline;
     public GameObject onboardingAssets;
 
     //public GameObject startButton;
@@ -21,7 +21,7 @@ public class AnchorDistanceDisplay : MonoBehaviour
         {
             float distance = Vector3.Distance(arCameraTransform.position, anchorTransform.position);
 
-
+            /*
             if (distance < 10000)
             {
                 distanceText.text = $"{distance:F2} meters";
@@ -31,27 +31,32 @@ public class AnchorDistanceDisplay : MonoBehaviour
                 distanceText.text = $"Outside of city limits; go to Gowanus, Brooklyn!";
             }
             Debug.Log($"Distance from AR Camera to Anchor: {distance:F2} meters");
+            */
 
-            if(distancePanel.activeSelf)
-        {
-                if (distance < 50f)
+            distanceText.text = $"{distance:F2} meters";
+
+            if (distancePanel.activeSelf)
+            {
+                if (distance < 20f)
                 {
                     distancePanel.SetActive(false);
                     //onboardingTimeline.SetActive(true);
                     onboardingAssets.SetActive(true);
 
+                    anchorTransform.gameObject.SetActive(false);
+
                     this.gameObject.SetActive(false);
 
                     //startButton.SetActive(true);
                     audioText.SetActive(true);
+                }
             }
-        }
         }
 
         
     }
 
-
+/*
     public void CheckDistance()
     {
         if (arCameraTransform != null && anchorTransform != null)
@@ -70,4 +75,5 @@ public class AnchorDistanceDisplay : MonoBehaviour
             //Debug.Log($"Distance from AR Camera to Anchor: {distance:F2} meters");
         }
     }
+    */
 }
