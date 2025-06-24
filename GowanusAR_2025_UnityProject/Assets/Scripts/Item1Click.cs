@@ -7,14 +7,14 @@ using UnityEngine.XR.ARFoundation;
 public class Item1Click : MonoBehaviour, IPointerClickHandler
 {
 
-    public GameObject phase1;
+    //public GameObject phase1;
 
-    public GameObject arm1;
-    public GameObject arm2;
+    //public GameObject arm1;
+    //public GameObject arm2;
     public GameObject timeline1;
-    public GameObject timeline2;
+    //public GameObject timeline2;
 
-    public IndustryManager indusManager;
+    //public IndustryManager indusManager;
 
     public TimelineManager tManager;
 
@@ -22,7 +22,7 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
 
     public GameObject onboarding;
 
-    public AROcclusionManager occlusionManager;
+    //public AROcclusionManager occlusionManager;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -53,7 +53,7 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
             timeline1.SetActive(true);
             onboarding.SetActive(false);
             timeline1.GetComponent<PlayableDirector>().Play();
-            occlusionManager.enabled = false;
+            //occlusionManager.enabled = false;
             
         }
         else if(this.gameObject.tag == "0"){
