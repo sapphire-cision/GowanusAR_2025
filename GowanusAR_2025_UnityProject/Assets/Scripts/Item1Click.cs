@@ -22,6 +22,8 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
 
     public GameObject onboarding;
 
+    public GameObject nextButton;
+
     //public AROcclusionManager occlusionManager;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -48,19 +50,28 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
 
         this.gameObject.SetActive(false);
 
-        if(this.gameObject.tag == "1"){
+        if (nextButton != null)
+        {
+            nextButton.SetActive(false);
+        }
+
+        if (this.gameObject.tag == "1")
+        {
 
             timeline1.SetActive(true);
             onboarding.SetActive(false);
             timeline1.GetComponent<PlayableDirector>().Play();
             //occlusionManager.enabled = false;
-            
+
         }
-        else if(this.gameObject.tag == "0"){
+        else if (this.gameObject.tag == "0")
+        {
 
             onboardingTimeline.Play();
-            
-        }else{
+
+        }
+        else
+        {
 
             //phase1.SetActive(false);
 
