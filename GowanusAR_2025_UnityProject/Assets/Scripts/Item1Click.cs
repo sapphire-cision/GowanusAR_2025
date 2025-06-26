@@ -24,6 +24,8 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
 
     public GameObject nextButton;
 
+    private bool waitForTimeline = false;
+
     //public AROcclusionManager occlusionManager;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -35,7 +37,13 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
     // Update is called once per frame
     void Update()
     {
-        
+        if (waitForTimeline && onboardingTimeline.state == PlayState.Paused)
+        {
+            waitForTimeline = false;
+            onboardingTimeline.Play();
+            //Debug.Log("Waiting for timeline to pause");
+            this.gameObject.SetActive(false);
+        }
     }
 
     /*public void OnMouseDown(){
@@ -48,7 +56,7 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
     public void OnPointerClick(PointerEventData eventData)
     {
 
-        this.gameObject.SetActive(false);
+        
 
         if (nextButton != null)
         {
@@ -57,7 +65,7 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
 
         if (this.gameObject.tag == "1")
         {
-
+            this.gameObject.SetActive(false);
             timeline1.SetActive(true);
             onboarding.SetActive(false);
             timeline1.GetComponent<PlayableDirector>().Play();
@@ -66,8 +74,9 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
         }
         else if (this.gameObject.tag == "0")
         {
-
-            onboardingTimeline.Play();
+            waitForTimeline = true;
+            //onboardingTimeline.Play();
+            Debug.Log("Clicked on 0");
 
         }
         else
@@ -87,7 +96,7 @@ public class Item1Click : MonoBehaviour, IPointerClickHandler
             //indusManager.count = 1;
 
             indusManager.NextUp();*/
-
+            this.gameObject.SetActive(false);
             tManager.NextMiniscene();
         }
     }
