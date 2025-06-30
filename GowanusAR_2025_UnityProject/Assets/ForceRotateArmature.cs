@@ -11,6 +11,12 @@ public class ForceRotateArmature : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        this.gameObject.transform.localRotation = Quaternion.Euler(-5.186f, 34.874f, -2.108f);
+        if (this.gameObject.transform.localRotation != Quaternion.Euler(0, 0, 0))
+        {
+            this.gameObject.transform.localRotation = Quaternion.Euler(0, 0, 0);
+            // Force the rotation to be zero
+            //ForceRotation();
+        }
+        
     }
 }

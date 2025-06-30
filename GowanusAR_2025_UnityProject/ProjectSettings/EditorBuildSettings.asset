@@ -29,15 +29,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/_industry_v11.unity
     guid: 792d8cdb45495415a9c339d943481314
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Ship&Rem_v1.unity
     guid: b544b64cbc08c4308b6d3013bee0bd62
   - enabled: 0
     path: Assets/Scenes/GeospatialAnchor_Test.unity
     guid: a950b01c89a6d4027a4d2e147fa403d7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Ship&Rem_v1_PATest.unity
     guid: 79415953476104c2d8a8473f548e2ae0
+  - enabled: 0
+    path: Assets/Plugins/ARFoundationRemoteInstaller/Resources/ARCompanion.unity
+    guid: 3439e7dd491e141d488ff9cc351ed279
   m_configObjects:
     AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: f440392bb5403499282399486a9eb4dd,
       type: 2}
