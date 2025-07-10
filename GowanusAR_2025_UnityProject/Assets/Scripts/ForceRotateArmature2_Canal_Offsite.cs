@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ForceRotateArmature : MonoBehaviour
+public class ForceRotateArmature2_Canal_Offsite : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -11,12 +11,11 @@ public class ForceRotateArmature : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (this.gameObject.transform.localRotation != Quaternion.Euler(0, 0, 0))
+        if (this.gameObject.transform.localRotation != Quaternion.Euler(0, 60, 0))
         {
-            this.gameObject.transform.localRotation = Quaternion.Euler(0, 0, 0);
+            this.gameObject.transform.localRotation = Quaternion.Euler(0, 60, 0);
             // Force the rotation to be zero
             //ForceRotation();
         }
-        
     }
 }
