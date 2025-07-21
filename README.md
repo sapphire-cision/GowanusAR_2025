@@ -1,6 +1,6 @@
 # GowanusAR_2025
 
-This Unity project represents the Shipping Scene of [GowanusAR](https://www.sarahdrury.net/work/augmented-gowanus), a site-specific augmented reality experience developed for the 2025 City of Water Day tour in Gowanus, Brooklyn. Designed to run smoothly on mobile devices via [App Store deployment](https://apps.apple.com/us/app/gowanusar/id6747295340), the scene allows users to explore the industrial and ecological past of Gowanus Canal’s shipping history through immersive, locative AR.
+This Unity project represents the Shipping & Remediation scene of [GowanusAR](https://www.sarahdrury.net/work/augmented-gowanus), a site-specific augmented reality experience developed for the 2025 City of Water Day tour in Gowanus, Brooklyn. Designed to run smoothly on mobile devices via [App Store deployment](https://apps.apple.com/us/app/gowanusar/id6747295340), the scene allows users to explore the industrial and ecological past of Gowanus Canal’s shipping history through immersive, locative AR.
 
 Using physical markers and site-specific triggers, this scene overlays:
 - Animated 3D objects and environmental effects
